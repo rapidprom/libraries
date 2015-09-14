@@ -1,0 +1,11 @@
+<ivy-module version="2.0">
+    <info organisation="rapidprom" module="Log" revision="6.5.159">
+    </info>
+    <dependencies>
+       <dependency org="rapidprom" name="ApacheUtils" rev="6.5.66" changing="true" transitive="true" />
+       <dependency org="rapidprom" name="BasicUtils" rev="6.5.64" changing="true" transitive="true" />
+       <dependency org="rapidprom" name="Widgets" rev="6.5.97" changing="true" transitive="true" />
+       <dependency org="rapidprom" name="OpenXES" rev="20150501" transitive="false" />
+       <dependency org="rapidprom" name="OpenXES-XStream" rev="20150501" transitive="false" />
+    </dependencies>
+</ivy-module>
