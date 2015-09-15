@@ -1,0 +1,23 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom" module="ApacheUtils" revision="6.5.66">
+    </info>
+    <dependencies>
+        <dependency org="com.ning" name="compress-lzf" rev="1.0.3" transitive="false" />
+        <dependency org="com.fasterxml.util" name="java-merge-sort" rev="1.0.0" transitive="false" />
+        <dependency org="com.google.code.gson" name="gson" rev="2.3.1" transitive="false"/>
+        <dependency org="com.googlecode.juniversalchardet" name="juniversalchardet" rev="1.0.3" transitive="false" />
+        <dependency org="commons-beanutils" name="commons-beanutils" rev="1.8.3" transitive="false" />
+        <dependency org="commons-cli" name="commons-cli" rev="1.2" transitive="false" />
+        <dependency org="commons-collections" name="commons-collections" rev="3.2.1" transitive="false" />
+        <dependency org="commons-digester" name="commons-digester" rev="2.1" transitive="false" />
+        <dependency org="commons-io" name="commons-io" rev="2.4" transitive="false" />
+        <dependency org="commons-logging" name="commons-logging" rev="1.1.2" transitive="false" />
+        <dependency org="de.congrace" name="exp4j" rev="0.3.8" transitive="false"/>
+        <dependency org="io.gatling.uncommons.maths" name="uncommons-maths" rev="1.2.3" transitive="false" />
+        <dependency org="log4j" name="log4j" rev="1.2.15" transitive="false" />
+        <dependency org="org.apache.ant" name="ant" rev="1.9.4" transitive="false" />
+        <dependency org="org.apache.commons" name="commons-lang3" rev="3.1" transitive="false" />
+        <dependency org="org.reflections" name="reflections" rev="0.9.10" transitive="true"/>
+        <dependency org="org.rapidprom" name="opencsv" rev="2.4-patched" transitive="false" />
+    </dependencies>
+</ivy-module>

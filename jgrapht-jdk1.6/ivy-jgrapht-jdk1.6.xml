@@ -1,0 +1,4 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom" module="jgrapht" revision="jdk1.6">
+    </info>
+</ivy-module>

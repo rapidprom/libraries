@@ -1,0 +1,4 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom" module="OpenXES-XStream" revision="20150807">
+    </info>
+</ivy-module>
