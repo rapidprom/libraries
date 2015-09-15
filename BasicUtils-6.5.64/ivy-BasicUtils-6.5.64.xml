@@ -9,6 +9,6 @@
         <dependency org="org.rapidprom" name="jmathplot" rev="ua-1" transitive="false" />
         <dependency org="net.sf.trove4j" name="trove4j" rev="3.0.3" transitive="false" />
         <dependency org="de.sciss" name="prefuse-core" rev="1.0.0" transitive="false" />
-        <dependency org="org.rapdiprom" name="ujmp-complete" rev="0.2.5" transitive="false" />
+        <dependency org="org.rapidprom" name="ujmp-complete" rev="0.2.5" transitive="false" />
     </dependencies>
 </ivy-module>
