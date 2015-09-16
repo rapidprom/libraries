@@ -1,5 +1,5 @@
 <ivy-module version="2.0">
-    <info organisation="org.rapidprom" module="PNetAlignmentAnalysis" revision="6.5.15">
+    <info organisation="org.rapidprom" module="TraceAlignmentWithGuideTree" revision="6.5.16">
     </info>
     <dependencies>
         <dependency org="org.rapidprom" name="GuideTreeMiner" rev="6.5.18" changing="true" transitive="true"/>
