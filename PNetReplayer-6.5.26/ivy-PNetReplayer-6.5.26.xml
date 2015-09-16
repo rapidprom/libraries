@@ -5,9 +5,9 @@
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64" changing="true" transitive="true"/>
         <dependency org="org.rapidprom" name="Log" rev="6.5.159" changing="true" transitive="true"/>
         <dependency org="org.rapidprom" name="LogDialog" rev="6.5.31" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="6.5.1" changing="true" transitive="false"/>
+        <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" changing="true" transitive="false"/>
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38" changing="true" transitive="true"/>        
         <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="sara" rev="na-1" changing="true" transitive="false"/>
+        <dependency org="org.rapidprom.thirdparty.resource" name="sara" rev="na-1" changing="true" transitive="false"/>
     </dependencies>
 </ivy-module>
