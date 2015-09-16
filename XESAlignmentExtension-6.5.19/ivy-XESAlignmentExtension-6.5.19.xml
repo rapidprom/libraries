@@ -1,0 +1,7 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom" module="XESAlignmentExtension" revision="6.5.19">
+    </info>
+    <dependencies>
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159" changing="true" transitive="false"/>
+    </dependencies>
+</ivy-module>
