@@ -1,0 +1,11 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom" module="ProcessTree" revision="6.5.50">
+    </info>
+    <dependencies>
+        <dependency org="org.rapidprom" name="EPC" rev="6.5.18" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="EPCConversion" rev="6.5.16" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159" changing="true" transitive="true"/>        
+        <dependency org="org.rapidprom" name="Murata" rev="6.5.32" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38" changing="true" transitive="true"/>
+    </dependencies>
+</ivy-module>
