@@ -2,19 +2,19 @@
     <info organisation="org.rapidprom" module="EvolutionaryTreeMiner" revision="6.5.38">
     </info>
     <dependencies>
-        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom.thirdparty.lib" name="approxlib" rev="v1.0" changing="true" transitive="false"/>
-        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.7" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.122" changing="true" transitive="true"/>        
+        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66"/>
+        <dependency org="org.rapidprom.thirdparty.lib" name="approxlib" rev="v1.0"/>
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"/>
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.7"/>
+        <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.122"/>
         <dependency org="sshtools" name="j2ssh-core" rev="0.2.9"/>
         <dependency org="sshtools" name="j2ssh-common" rev="0.2.9"/>
-        <dependency org="org.rapidprom" name="Log" rev="6.5.159" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" changing="true" transitive="false"/>        
-        <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.50" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="Properties" rev="6.5.68" changing="true" transitive="true"/>        
-        <dependency org="org.rapidprom" name="PTMerge" rev="6.5.19" changing="true" transitive="true"/>        
-        <dependency org="org.rapidprom.thirdparty.lib" name="RTED" rev="v1.0" changing="true" transitive="false"/>        
-        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159"/>
+        <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1"/> 
+        <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.50"/>
+        <dependency org="org.rapidprom" name="Properties" rev="6.5.68"/>
+        <dependency org="org.rapidprom" name="PTMerge" rev="6.5.19"/>
+        <dependency org="org.rapidprom.thirdparty.lib" name="RTED" rev="v1.0"/>
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97"/>
      </dependencies>
 </ivy-module>

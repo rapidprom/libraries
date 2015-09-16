@@ -2,9 +2,9 @@
     <info organisation="org.rapidprom" module="YAWL" revision="6.5.26">
     </info>
     <dependencies>
-        <dependency org="org.rapidprom" name="Flex" rev="6.5.18" changing="true" transitive="false"/>
-        <dependency org="org.rapidprom" name="Log" rev="6.5.159" changing="true" transitive="false"/>
-        <dependency org="org.rapidprom" name="Performance" rev="6.5.18" changing="true" transitive="false"/>
-        <dependency org="org.rapidprom.thirdparty.lib" name="YAWLEditor-wo.jgraph" rev="2.3.5" changing="true" transitive="false"/>
+        <dependency org="org.rapidprom" name="Flex" rev="6.5.18"/>
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159"/>
+        <dependency org="org.rapidprom" name="Performance" rev="6.5.18"/>
+        <dependency org="org.rapidprom.thirdparty.lib" name="YAWLEditor-wo.jgraph" rev="2.3.5"/>
     </dependencies>
 </ivy-module>

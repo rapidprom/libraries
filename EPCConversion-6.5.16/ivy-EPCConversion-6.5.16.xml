@@ -2,8 +2,8 @@
     <info organisation="org.rapidprom" module="EPCConversion" revision="6.5.16">
     </info>
     <dependencies>
-        <dependency org="org.rapidprom" name="EPC" rev="6.5.18" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="Murata" rev="6.5.32" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="EPC" rev="6.5.18"/>
+        <dependency org="org.rapidprom" name="Murata" rev="6.5.32"/>
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38"/>
     </dependencies>
 </ivy-module>

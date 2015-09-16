@@ -2,9 +2,9 @@
     <info organisation="org.rapidprom" module="CPNet" revision="6.5.56">
     </info>
     <dependencies>
-        <dependency org="org.rapidprom.thirdparty.lib" name="AccessCPN" rev="na-1" changing="true" transitive="false"/>
+        <dependency org="org.rapidprom.thirdparty.lib" name="AccessCPN" rev="na-1"/>
         <dependency org="org.rapidprom" name="EMF" rev="6.5.35"/>
-        <dependency org="org.rapidprom.thirdparty.lib" name="javabdd" rev="1.0b2" transitive="false"/>
+        <dependency org="org.rapidprom.thirdparty.lib" name="javabdd" rev="1.0b2"/>
         <dependency org="org.rapidprom" name="Log" rev="6.5.159"/>
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38"/>
         <dependency org="org.rapidprom" name="Widgets" rev="6.5.97"/>

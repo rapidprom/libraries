@@ -2,6 +2,6 @@
     <info organisation="org.rapidprom" module="EPC" revision="6.5.18">
     </info>
     <dependencies>
-        <dependency org="org.rapidprom" name="Log" rev="6.5.159" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159"/>
     </dependencies>
 </ivy-module>

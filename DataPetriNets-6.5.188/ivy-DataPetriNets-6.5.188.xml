@@ -2,13 +2,13 @@
     <info organisation="org.rapidprom" module="DataPetriNets" revision="6.5.188">
     </info>
     <dependencies>
-        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="Daikon" rev="6.5.3" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="Log" rev="6.5.159" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="GraphViz" rev="6.5.98" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.7" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"/>
+        <dependency org="org.rapidprom" name="Daikon" rev="6.5.3"/>
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159"/>
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38"/>
+        <dependency org="org.rapidprom" name="GraphViz" rev="6.5.98"/>
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.7"/>
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97"/>
         <dependency org="args4j" name="args4j" rev="2.0.23"/>
         <dependency org="com.fifesoft" name="rsyntaxtextarea" rev="2.5.7"/>
         <dependency org="com.fifesoft" name="autocomplete" rev="2.5.7"/>

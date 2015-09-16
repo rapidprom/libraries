@@ -2,9 +2,9 @@
     <info organisation="org.rapidprom" module="InductiveMiner" revision="6.5.122">
     </info>
     <dependencies>
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.26" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.50" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="Properties" rev="6.5.68" changing="true" transitive="true"/>        
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38"/>
+        <dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.26"/>
+        <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.50"/>
+        <dependency org="org.rapidprom" name="Properties" rev="6.5.68"/>        
      </dependencies>
 </ivy-module>

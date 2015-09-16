@@ -2,7 +2,7 @@
     <info organisation="org.rapidprom" module="LogDialog" revision="6.5.31">
     </info>
     <dependencies>
-        <dependency org="org.rapidprom" name="Log" rev="6.5.159" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="InteractiveVisualization" rev="6.5.17" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159"/>
+        <dependency org="org.rapidprom" name="InteractiveVisualization" rev="6.5.17"/>
     </dependencies>
 </ivy-module>

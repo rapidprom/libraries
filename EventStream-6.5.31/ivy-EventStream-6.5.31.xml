@@ -1,0 +1,11 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom" module="EventStream" revision="6.5.31">
+    </info>
+    <dependencies>
+        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66"/>
+        <dependency org="org.rapidprom" name="CPNet" rev="6.5.56"/>
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159"/>
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38"/>
+        <dependency org="org.rapidprom" name="Stream" rev="6.5.44"/>
+    </dependencies>
+</ivy-module>

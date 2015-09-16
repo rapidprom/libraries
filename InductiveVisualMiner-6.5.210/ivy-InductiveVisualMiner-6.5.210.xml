@@ -2,11 +2,11 @@
     <info organisation="org.rapidprom" module="InductiveVisualMiner" revision="6.5.210">
     </info>
     <dependencies>
-        <dependency org="org.rapidprom" name="EvolutionaryTreeMiner" rev="6.5.38" changing="true" transitive="true" />
-        <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.122" changing="true" transitive="true" />
+        <dependency org="org.rapidprom" name="EvolutionaryTreeMiner" rev="6.5.38"/>
+        <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.122"/>
         <dependency org="org.jblas" name="jblas" rev="1.2.4"/>
-        <dependency org="org.rapidprom" name="GraphViz" rev="6.5.98" changing="true" transitive="true" />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" changing="true" transitive="true" />        
-        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.7" changing="true" transitive="true" />
+        <dependency org="org.rapidprom" name="GraphViz" rev="6.5.98"/>
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" />
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.7"/>
      </dependencies>
 </ivy-module>

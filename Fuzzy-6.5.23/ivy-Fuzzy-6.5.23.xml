@@ -2,9 +2,9 @@
     <info organisation="org.rapidprom" module="Fuzzy" revision="6.5.23">
     </info>
     <dependencies>
-        <dependency org="org.rapidprom" name="Animation" rev="6.5.29" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="Log" rev="6.5.159" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.24" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="Animation" rev="6.5.29"/>
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"/>
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159"/>
+        <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.24"/>
     </dependencies>
 </ivy-module>

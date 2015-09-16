@@ -1,0 +1,8 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom" module="Stream" revision="6.5.44">
+    </info>
+    <dependencies>
+        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66"/>
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"/>
+    </dependencies>
+</ivy-module>

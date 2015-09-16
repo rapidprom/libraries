@@ -2,9 +2,9 @@
     <info organisation="org.rapidprom" module="PTMerge" revision="6.5.19">
     </info>
     <dependencies>
-        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" changing="true" transitive="false"/>    
-        <dependency org="org.rapidprom" name="Properties" rev="6.5.68" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.50" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"/>
+        <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1"/>
+        <dependency org="org.rapidprom" name="Properties" rev="6.5.68"/>
+        <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.50"/>
     </dependencies>
 </ivy-module>

@@ -2,12 +2,12 @@
     <info organisation="org.rapidprom" module="PNetReplayer" revision="6.5.26">
     </info>
     <dependencies>
-        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="Log" rev="6.5.159" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="LogDialog" rev="6.5.31" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" changing="true" transitive="false"/>
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38" changing="true" transitive="true"/>        
-        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom.thirdparty.resource" name="sara" rev="na-1" changing="true" transitive="false"/>
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"/>
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159"/>
+        <dependency org="org.rapidprom" name="LogDialog" rev="6.5.31"/>
+        <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1"/>
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38"/>        
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97"/>
+        <dependency org="org.rapidprom.thirdparty.resource" name="sara" rev="na-1"/>
     </dependencies>
 </ivy-module>
