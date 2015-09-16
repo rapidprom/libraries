@@ -1,0 +1,7 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom" module="Woflan" revision="6.5.25">
+    </info>
+    <dependencies>
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38"/>
+    </dependencies>
+</ivy-module>
