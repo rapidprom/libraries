@@ -1,4 +1,7 @@
 <ivy-module version="2.0">
     <info organisation="org.rapidprom.thirdparty.resource" module="dot" revision="na-1">
     </info>
+    <publications>
+        <artifact name="dot-na-1" type="zip" ext="zip" />
+    </publications>
 </ivy-module>
