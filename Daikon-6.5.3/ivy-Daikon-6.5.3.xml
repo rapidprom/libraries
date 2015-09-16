@@ -1,0 +1,9 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom" module="Daikon" revision="6.5.3">
+    </info>
+    <dependencies>
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"/>
+        <dependency org="org.rapidprom.thirdparty.lib" name="daikon" rev="na-1" transitive="false"/>
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159"/>
+    </dependencies>
+</ivy-module>
