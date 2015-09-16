@@ -1,5 +1,5 @@
 <ivy-module version="2.0">
-    <info organisation="org.rapidprom" module="EPCConversion" revision="6.5.16">
+    <info organisation="org.rapidprom" module="FeaturePrediction" revision="6.5.25">
     </info>
     <dependencies>
         <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66"/>
