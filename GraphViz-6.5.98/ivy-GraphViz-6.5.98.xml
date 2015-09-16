@@ -3,7 +3,9 @@
     </info>
     <dependencies>
         <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66" changing="true" transitive="true" />
-        <dependency org="org.rapidprom.thirdparty.resource" name="dot" rev="na-1" changing="true" transitive="false"/>
+        <dependency org="org.rapidprom.thirdparty.resource" name="dot" rev="na-1" changing="true" transitive="false">
+            <artifact name="dot-na-1" type="zip" ext="zip" />
+        </dependency>
         <dependency org="org.rapidprom.thirdparty.lib" name="grappa" rev="na-1" changing="true" transitive="false"/>
         <dependency org="org.rapidprom.thirdparty.lib" name="VectorGraphics2D" rev="0.9.1" changing="true" transitive="false"/>
      </dependencies>
