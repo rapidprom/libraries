@@ -1,0 +1,13 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom" module="PNetAlignmentAnalysis" revision="6.5.15">
+    </info>
+    <dependencies>
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="GuideTreeMiner" rev="6.5.18" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.26" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="TraceAlignmentWithGuideTree" rev="6.5.16" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" changing="true" transitive="true"/>
+    </dependencies>
+</ivy-module>
