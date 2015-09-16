@@ -1,0 +1,12 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom.thirdparty.resource" module="LpSolve" revision="5.5.1">
+    </info>
+    <publications>
+        <artifact name="LpSolve_5.5.1_lin32" type="zip" ext="zip"/>
+        <artifact name="LpSolve_5.5.1_lin64" type="zip" ext="zip"/>
+        <artifact name="LpSolve_5.5.1_mac" type="zip" ext="zip"/>
+        <artifact name="LpSolve_5.5.1_win32" type="zip" ext="zip"/>
+        <artifact name="LpSolve_5.5.1_win64" type="zip" ext="zip"/>
+        <artifact name="LpSolve_5.5.1" type="jar" ext="jar"/>
+    </publications>
+</ivy-module>

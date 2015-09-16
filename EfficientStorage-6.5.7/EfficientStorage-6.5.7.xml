@@ -1,0 +1,8 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom" module="EfficientStorage" revision="6.5.7">
+    </info>
+    <dependencies>
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" changing="true" transitive="false"/>
+    </dependencies>
+</ivy-module>
