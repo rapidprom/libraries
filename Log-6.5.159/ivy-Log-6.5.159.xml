@@ -4,9 +4,9 @@
     <dependencies>
         <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66" changing="true" transitive="true"/>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64" changing="true" transitive="true"/>
-        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" changing="true" transitive="true"/>
         <dependency org="org.rapidprom" name="OpenXES" rev="20150807" transitive="false"/>
         <dependency org="org.rapidprom" name="OpenXES-XStream" rev="20150807" transitive="false"/>
         <dependency org="com.univocity" name="univocity-parsers" rev="1.5.5"/>
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" changing="true" transitive="true"/>
     </dependencies>
 </ivy-module>
