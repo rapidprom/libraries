@@ -1,0 +1,3 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom" module="javabdd" revision="1.0b2"/>
+</ivy-module>

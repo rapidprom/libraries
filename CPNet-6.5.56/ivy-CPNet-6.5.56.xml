@@ -1,0 +1,12 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom" module="CPNet" revision="6.5.56">
+    </info>
+    <dependencies>
+        <dependency org="org.rapidprom" name="AccessCPN" rev="na-1" changing="true" transitive="false"/>
+        <dependency org="org.rapidprom" name="EMF" rev="6.5.35" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="javabdd" rev="1.0b2" changing="true" transitive="false"/>
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" changing="true" transitive="true"/>
+    </dependencies>
+</ivy-module>

@@ -1,0 +1,4 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom" module="org.eclipse.emf.ecore" revision="2.8.3.v20130125-0546">
+    </info>
+</ivy-module>
