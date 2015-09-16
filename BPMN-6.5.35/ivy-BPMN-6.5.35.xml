@@ -2,6 +2,8 @@
     <info organisation="org.rapidprom" module="BPMN" revision="6.5.35">
     </info>
     <dependencies>
-        <dependency org="org.rapidprom" name="Log" rev="6.5.159" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66" changing="true" transitive="true" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159" changing="true" transitive="true" />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" changing="true" transitive="true" />
     </dependencies>
 </ivy-module>

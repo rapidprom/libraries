@@ -3,6 +3,7 @@
     </info>
     <dependencies>
         <dependency org="org.rapidprom" name="Animation" rev="6.5.29" changing="true" transitive="true"/>
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159" changing="true" transitive="true"/>
         <dependency org="org.rapidprom" name="OSService" rev="6.5.19" changing="true" transitive="true"/>
     </dependencies>
 </ivy-module>
