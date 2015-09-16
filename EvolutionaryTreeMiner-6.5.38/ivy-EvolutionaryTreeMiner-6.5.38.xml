@@ -14,7 +14,7 @@
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.50" changing="true" transitive="true"/>
         <dependency org="org.rapidprom" name="Properties" rev="6.5.68" changing="true" transitive="true"/>        
         <dependency org="org.rapidprom" name="PTMerge" rev="6.5.19" changing="true" transitive="true"/>        
-        <dependency org="org.rapidprom.thirdparty.lib" name="RRED" rev="v1.0" changing="true" transitive="false"/>        
+        <dependency org="org.rapidprom.thirdparty.lib" name="RTED" rev="v1.0" changing="true" transitive="false"/>        
         <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" changing="true" transitive="true"/>
      </dependencies>
 </ivy-module>
