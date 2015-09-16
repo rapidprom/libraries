@@ -1,0 +1,4 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom.thirdparty.lib" module="japura" revision="1.12.3">
+    </info>
+</ivy-module>

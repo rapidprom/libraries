@@ -2,6 +2,6 @@
     <info organisation="org.rapidprom" module="Widgets" revision="6.5.97">
     </info>
     <dependencies>
-        <dependency org="org.rapidprom" name="japura" rev="1.12.3" transitive="false" />
+        <dependency org="org.rapidprom.thirdparty.lib" name="japura" rev="1.12.3" transitive="false" />
     </dependencies>
 </ivy-module>

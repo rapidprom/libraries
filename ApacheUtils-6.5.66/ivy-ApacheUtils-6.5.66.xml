@@ -18,6 +18,6 @@
         <dependency org="org.apache.ant" name="ant" rev="1.9.4" transitive="false" />
         <dependency org="org.apache.commons" name="commons-lang3" rev="3.1" transitive="false" />
         <dependency org="org.reflections" name="reflections" rev="0.9.10" transitive="true"/>
-        <dependency org="org.rapidprom" name="opencsv" rev="2.4-patched" transitive="false" />
+        <dependency org="org.rapidprom.thirdparty.lib" name="opencsv" rev="2.4-patched" transitive="false" />
     </dependencies>
 </ivy-module>
