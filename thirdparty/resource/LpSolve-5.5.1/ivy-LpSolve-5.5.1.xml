@@ -2,11 +2,11 @@
     <info organisation="org.rapidprom.thirdparty.resource" module="LpSolve" revision="5.5.1">
     </info>
     <publications>
-        <artifact name="LpSolve-5.5.1_lin32" type="zip" ext="zip"/>
-        <artifact name="LpSolve-5.5.1_lin64" type="zip" ext="zip"/>
-        <artifact name="LpSolve-5.5.1_mac" type="zip" ext="zip"/>
-        <artifact name="LpSolve-5.5.1_win32" type="zip" ext="zip"/>
-        <artifact name="LpSolve-5.5.1_win64" type="zip" ext="zip"/>
+        <artifact name="LpSolve-5.5.1_lin32" type="lin32" ext="zip"/>
+        <artifact name="LpSolve-5.5.1_lin64" type="lin64" ext="zip"/>
+        <artifact name="LpSolve-5.5.1_mac" type="mac" ext="zip"/>
+        <artifact name="LpSolve-5.5.1_win32" type="win32" ext="zip"/>
+        <artifact name="LpSolve-5.5.1_win64" type="win64" ext="zip"/>
         <artifact name="LpSolve-5.5.1" type="jar" ext="jar"/>
     </publications>
 </ivy-module>
