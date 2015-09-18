@@ -13,6 +13,7 @@
         <dependency org="commons-io" name="commons-io" rev="2.4" />
         <dependency org="commons-logging" name="commons-logging" rev="1.1.2" />
         <dependency org="de.congrace" name="exp4j" rev="0.3.8" transitive="false"/>
+        <!-- svzelst@20150918 somehow this version of uncommons refers to an unexisting version of jfreechart, hence it is not transitive-->
         <dependency org="io.gatling.uncommons.maths" name="uncommons-maths" rev="1.2.3" transitive="false"/>
         <dependency org="log4j" name="log4j" rev="1.2.15" />
         <dependency org="org.apache.ant" name="ant" rev="1.9.4" />
