@@ -1,15 +1,17 @@
-<ivy-module version="2.0" xmlns:rpr="http://rapidprom.org">
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
     <info 
         organisation="org.rapidprom" 
         module="Animation" 
         revision="6.5.29" 
-        rpr:author="H.M.W. Verbeek and C.W. Guenther" 
-        rpr:auto="false" rpr:hasPlugins="true" 
-        rpr:license="LGPL" 
-        rpr:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png" 
-        rpr:org="Eindhoven University of Technology" 
-        rpr:os="all" 
-        rpr:url="https://github.com/rapidprom/libraries/tree/master/Animation-6.5.29"
+        rapidprom:author="H.M.W. Verbeek and C.W. Guenther" 
+        rapidprom:auto="false"
+        rapidprom:desc="Animation"
+        rapidprom:hasPlugins="true" 
+        rapidprom:license="LGPL" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png" 
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:os="all" 
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/Animation-6.5.29"
     />
     <dependencies>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"/>

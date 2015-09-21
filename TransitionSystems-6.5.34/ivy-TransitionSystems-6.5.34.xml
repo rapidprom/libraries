@@ -1,9 +1,0 @@
-<ivy-module version="2.0">
-    <info organisation="org.rapidprom" module="TransitionSystems" revision="6.5.34">
-    </info>
-    <dependencies>
-        <dependency org="org.rapidprom" name="Animation" rev="6.5.29"/>
-        <dependency org="org.rapidprom" name="Log" rev="6.5.159"/>
-        <dependency org="org.rapidprom" name="OSService" rev="6.5.19"/>
-    </dependencies>
-</ivy-module>

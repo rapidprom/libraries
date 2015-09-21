@@ -1,12 +1,24 @@
-<ivy-module version="2.0">
-    <info organisation="org.rapidprom" module="InductiveVisualMiner" revision="6.5.210">
-    </info>
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="InductiveVisualMiner" 
+        revision="6.5.210" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/InductiveVisualMiner-6.5.210"
+        rapidprom:desc="Inductive Visual Miner"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="LGPL"
+        rapidprom:author="S.J.J. Leemans" 
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    />
     <dependencies>
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21"/>
         <dependency org="org.rapidprom" name="EvolutionaryTreeMiner" rev="6.5.38"/>
+        <dependency org="org.rapidprom" name="GraphViz" rev="6.5.112"/>
         <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.122"/>
         <dependency org="org.jblas" name="jblas" rev="1.2.4"/>
-        <dependency org="org.rapidprom" name="GraphViz" rev="6.5.98"/>
         <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" />
-        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.7"/>
      </dependencies>
 </ivy-module>

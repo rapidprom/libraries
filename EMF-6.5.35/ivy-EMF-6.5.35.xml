@@ -1,6 +1,18 @@
-<ivy-module version="2.0">
-    <info organisation="org.rapidprom" module="EMF" revision="6.5.35">
-    </info>
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="EMF" 
+        revision="6.5.35" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/EMF-6.5.35"
+        rapidprom:desc="Eclipse Modeling Framework"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="EPL"
+        rapidprom:author="D.M.M. Schunselaar" 
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    />
     <dependencies>
         <dependency org="org.eclipse.birt.runtime.3_7_1" name="org.eclipse.emf.common" rev="2.7.0"/>
         <dependency org="org.rapidprom.thirdparty.lib" name="org.eclipse.emf.ecore" rev="2.8.3.v20130125-0546"/>

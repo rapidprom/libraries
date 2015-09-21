@@ -1,6 +1,18 @@
-<ivy-module version="2.0">
-    <info organisation="org.rapidprom" module="BasicUtils" revision="6.5.64">
-    </info>
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="BasicUtils" 
+        revision="6.5.64" 
+        rapidprom:os="all" 
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/BasicUtils-6.5.64"
+        rapidprom:desc="Basic Utils"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="LGPL" 
+        rapidprom:author="H.M.W. Verbeek" 
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="false" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    />
     <dependencies>
         <dependency org="org.rapidprom.thirdparty.lib" name="javacsv" rev="2.1"/>
         <dependency org="org.rapidprom.thirdparty.lib" name="javailp" rev="1.2a"/>

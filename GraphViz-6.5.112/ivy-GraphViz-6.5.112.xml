@@ -1,0 +1,22 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="GraphViz" 
+        revision="6.5.112" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/GraphViz-6.5.112"
+        rapidprom:desc="Graph Viz"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="LGPL"
+        rapidprom:author="S.J.J. Leemans" 
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    />
+    <dependencies>
+        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66" />
+        <dependency org="org.rapidprom.thirdparty.resource" name="dot" rev="na-1"/>
+        <dependency org="org.rapidprom.thirdparty.lib" name="grappa" rev="na-1"/>
+        <dependency org="org.rapidprom.thirdparty.lib" name="VectorGraphics2D" rev="0.9.1"/>
+     </dependencies>
+</ivy-module>
