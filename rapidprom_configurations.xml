@@ -1,0 +1,9 @@
+<configurations defaultconfmapping="*->@">
+    <conf name="all" />
+    <conf name="lin32" />
+    <conf name="lin64" />
+    <conf name="mac32" />
+    <conf name="mac64" />
+    <conf name="win32" />
+    <conf name="win64" />
+</configurations>
