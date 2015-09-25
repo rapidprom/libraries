@@ -6,7 +6,8 @@
     <publications>
         <artifact name="LpSolve-5.5.1_lin32" type="zip" ext="zip" conf="lin32" />
         <artifact name="LpSolve-5.5.1_lin64" type="zip" ext="zip" conf="lin64" />
-        <artifact name="LpSolve-5.5.1_mac" type="zip" ext="zip" conf="mac32,mac64" />
+        <artifact name="LpSolve-5.5.1_mac32" type="zip" ext="zip" conf="mac32" />
+        <artifact name="LpSolve-5.5.1_mac64" type="zip" ext="zip" conf="mac64" />
         <artifact name="LpSolve-5.5.1_win32" type="zip" ext="zip" conf="win32" />
         <artifact name="LpSolve-5.5.1_win64" type="zip" ext="zip" conf="win64"/>
         <artifact name="LpSolve-5.5.1" type="jar" ext="jar"/>
