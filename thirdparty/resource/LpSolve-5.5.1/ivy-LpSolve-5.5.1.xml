@@ -1,12 +1,19 @@
 <ivy-module version="2.0">
-    <info organisation="org.rapidprom.thirdparty.resource" module="LpSolve" revision="5.5.1">
-    </info>
+    <info organisation="org.rapidprom.thirdparty.resource" module="LpSolve" revision="5.5.1" />
+    <configurations>
+        <conf name="lin32" />
+        <conf name="lin64" />
+        <conf name="mac32" />
+        <conf name="mac64" />
+        <conf name="win32" />
+        <conf name="win64" />
+    </configurations>
     <publications>
-        <artifact name="LpSolve-5.5.1_lin32" type="lin32" ext="zip"/>
-        <artifact name="LpSolve-5.5.1_lin64" type="lin64" ext="zip"/>
-        <artifact name="LpSolve-5.5.1_mac" type="mac" ext="zip"/>
-        <artifact name="LpSolve-5.5.1_win32" type="win32" ext="zip"/>
-        <artifact name="LpSolve-5.5.1_win64" type="win64" ext="zip"/>
+        <artifact name="LpSolve-5.5.1_lin32" type="lin32" ext="zip" conf="lin32" />
+        <artifact name="LpSolve-5.5.1_lin64" type="lin64" ext="zip" conf="lin64" />
+        <artifact name="LpSolve-5.5.1_mac" type="mac" ext="zip" conf="mac32,mac64" />
+        <artifact name="LpSolve-5.5.1_win32" type="win32" ext="zip" conf="win32" />
+        <artifact name="LpSolve-5.5.1_win64" type="win64" ext="zip" conf="win64"/>
         <artifact name="LpSolve-5.5.1" type="jar" ext="jar"/>
     </publications>
 </ivy-module>
