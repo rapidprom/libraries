@@ -13,14 +13,17 @@
         rapidprom:hasPlugins="false" 
         rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
     />
+    <configurations>
+        <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
+    </configurations>
     <dependencies>
-        <dependency org="org.rapidprom.thirdparty.lib" name="javacsv" rev="2.1"/>
-        <dependency org="org.rapidprom.thirdparty.lib" name="javailp" rev="1.2a"/>
-        <dependency org="org.rapidprom.thirdparty.lib" name="jbpt" rev="0.2.429"/>
-        <dependency org="org.rapidprom.thirdparty.lib" name="jgrapht" rev="jdk1.6"/>
-        <dependency org="org.rapidprom.thirdparty.lib" name="jmathplot" rev="na-1"/>
-        <dependency org="de.sciss" name="prefuse-core" rev="1.0.0"/>
-        <dependency org="net.sf.trove4j" name="trove4j" rev="3.0.3"/>
-        <dependency org="org.rapidprom.thirdparty.lib" name="ujmp-complete" rev="0.2.5"/>
+        <dependency org="org.rapidprom.thirdparty.lib" name="javacsv" rev="2.1" conf="*" />
+        <dependency org="org.rapidprom.thirdparty.lib" name="javailp" rev="1.2a" conf="*" />
+        <dependency org="org.rapidprom.thirdparty.lib" name="jbpt" rev="0.2.429" conf="*" />
+        <dependency org="org.rapidprom.thirdparty.lib" name="jgrapht" rev="jdk1.6" conf="*" />
+        <dependency org="org.rapidprom.thirdparty.lib" name="jmathplot" rev="na-1" conf="*" />
+        <dependency org="de.sciss" name="prefuse-core" rev="1.0.0" conf="*" />
+        <dependency org="net.sf.trove4j" name="trove4j" rev="3.0.3" conf="*" />
+        <dependency org="org.rapidprom.thirdparty.lib" name="ujmp-complete" rev="0.2.5" conf="*" />
     </dependencies>
 </ivy-module>
