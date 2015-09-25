@@ -13,8 +13,11 @@
         rapidprom:os="all" 
         rapidprom:url="https://github.com/rapidprom/libraries/tree/master/Animation-6.5.29"
     />
+    <configurations>
+        <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
+    </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"/>
-        <dependency org="org.rapidprom" name="Log" rev="6.5.159"/>
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159" />
     </dependencies>
 </ivy-module>

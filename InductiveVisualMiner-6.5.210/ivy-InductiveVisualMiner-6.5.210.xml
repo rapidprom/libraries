@@ -13,12 +13,15 @@
         rapidprom:hasPlugins="true" 
         rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
     />
+    <configurations>
+        <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
+    </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21"/>
-        <dependency org="org.rapidprom" name="EvolutionaryTreeMiner" rev="6.5.38"/>
-        <dependency org="org.rapidprom" name="GraphViz" rev="6.5.112"/>
-        <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.122"/>
-        <dependency org="org.jblas" name="jblas" rev="1.2.4"/>
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21" />
+        <dependency org="org.rapidprom" name="EvolutionaryTreeMiner" rev="6.5.38" />
+        <dependency org="org.rapidprom" name="GraphViz" rev="6.5.112" />
+        <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.122" />
+        <dependency org="org.jblas" name="jblas" rev="1.2.4" conf="*" />
         <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" />
      </dependencies>
 </ivy-module>

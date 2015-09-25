@@ -13,4 +13,7 @@
         rapidprom:hasPlugins="true" 
         rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
     />
+    <configurations>
+        <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
+    </configurations>
 </ivy-module>

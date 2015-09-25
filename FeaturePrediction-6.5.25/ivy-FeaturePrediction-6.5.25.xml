@@ -13,14 +13,17 @@
         rapidprom:hasPlugins="true" 
         rapidprom:logo="http://www.win.tue.nl/~mdeleoni/images/foto.jpg"
     />
+    <configurations>
+        <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
+    </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66"/>
-        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"/>
-        <dependency org="org.rapidprom" name="DataPetriNets" rev="6.5.191"/>
-        <dependency org="org.rapidprom" name="DataAwareReplayer" rev="6.5.270"/>
-        <dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.26"/>
-        <dependency org="de.sciss" name="prefuse-core" rev="1.0.0"/>
-        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97"/>
-        <dependency org="org.rapidprom" name="XESLite" rev="6.5.115"/>
+        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66" />
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64" />
+        <dependency org="org.rapidprom" name="DataPetriNets" rev="6.5.191" />
+        <dependency org="org.rapidprom" name="DataAwareReplayer" rev="6.5.270" />
+        <dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.26" />
+        <dependency org="de.sciss" name="prefuse-core" rev="1.0.0" conf="*"/>
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" />
+        <dependency org="org.rapidprom" name="XESLite" rev="6.5.115" />
     </dependencies>
 </ivy-module>

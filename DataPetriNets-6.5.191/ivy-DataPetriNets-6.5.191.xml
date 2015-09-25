@@ -13,16 +13,19 @@
         rapidprom:hasPlugins="true" 
         rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
     />
+    <configurations>
+        <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
+    </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"/>
-        <dependency org="org.rapidprom" name="Daikon" rev="6.5.3"/>
-        <dependency org="org.rapidprom" name="Log" rev="6.5.159"/>
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38"/>
-        <dependency org="org.rapidprom" name="GraphViz" rev="6.5.112"/>
-        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21"/>
-        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97"/>
-        <dependency org="args4j" name="args4j" rev="2.0.23"/>
-        <dependency org="com.fifesoft" name="rsyntaxtextarea" rev="2.5.7"/>
-        <dependency org="com.fifesoft" name="autocomplete" rev="2.5.7"/>
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64" />
+        <dependency org="org.rapidprom" name="Daikon" rev="6.5.3" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38" />
+        <dependency org="org.rapidprom" name="GraphViz" rev="6.5.112" />
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21" />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" />
+        <dependency org="args4j" name="args4j" rev="2.0.23" conf="*" />
+        <dependency org="com.fifesoft" name="rsyntaxtextarea" rev="2.5.7" conf="*" />
+        <dependency org="com.fifesoft" name="autocomplete" rev="2.5.7" conf="*" />
     </dependencies>
 </ivy-module>

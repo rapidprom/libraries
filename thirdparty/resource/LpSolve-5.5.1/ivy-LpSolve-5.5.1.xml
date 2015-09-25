@@ -1,12 +1,7 @@
 <ivy-module version="2.0">
     <info organisation="org.rapidprom.thirdparty.resource" module="LpSolve" revision="5.5.1" />
     <configurations>
-        <conf name="lin32" />
-        <conf name="lin64" />
-        <conf name="mac32" />
-        <conf name="mac64" />
-        <conf name="win32" />
-        <conf name="win64" />
+        <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
     </configurations>
     <publications>
         <artifact name="LpSolve-5.5.1_lin32" type="lin32" ext="zip" conf="lin32" />
