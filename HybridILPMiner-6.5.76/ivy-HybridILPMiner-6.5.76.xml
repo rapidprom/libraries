@@ -23,7 +23,7 @@
         <dependency org="org.rapidprom" name="CausalActivityMatrix" rev="6.5.24" />
         <dependency org="org.rapidprom" name="CausalActivityMatrixMiner" rev="6.5.34" />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21" />
-        <dependency org="org.rapidprom" name="ETConformance" rev="latest" />
+        <dependency org="org.rapidprom" name="ETConformance" rev="6.5.15" />
         <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.24" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.159" />
         <dependency org="org.rapidprom" name="LPEngine" rev="6.5.49" />
