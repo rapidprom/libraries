@@ -2,7 +2,7 @@
     <info 
         organisation="org.rapidprom" 
         module="LPEngine" 
-        revision="6.5.49" 
+        revision="6.5.52" 
         rapidprom:os="all"
         rapidprom:url="https://github.com/rapidprom/libraries/tree/master/LPEngine-6.5.49"
         rapidprom:desc="LPEngine"
