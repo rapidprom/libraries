@@ -2,7 +2,7 @@
     <info 
         organisation="org.rapidprom" 
         module="HybridILPMiner" 
-        revision="6.5.76" 
+        revision="6.5.78" 
         rapidprom:os="all"
         rapidprom:url="https://github.com/rapidprom/libraries/tree/master/HeuristicsMiner-6.5.30"
         rapidprom:desc="Hybrid ILP Miner"
