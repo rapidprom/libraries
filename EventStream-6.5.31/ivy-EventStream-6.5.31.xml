@@ -18,7 +18,7 @@
     </configurations>
     <dependencies>
         <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66" />
-        <dependency org="org.rapidprom" name="CPNet" rev="6.5.56" />
+        <dependency org="org.rapidprom" name="CPNet" rev="6.5.61" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.159" />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38" />
         <dependency org="org.rapidprom" name="Stream" rev="6.5.44" />
