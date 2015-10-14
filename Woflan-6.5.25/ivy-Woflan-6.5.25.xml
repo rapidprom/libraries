@@ -17,6 +17,6 @@
         <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
     </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.43" />
     </dependencies>
 </ivy-module>

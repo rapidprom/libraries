@@ -20,7 +20,7 @@
         <dependency org="org.rapidprom" name="AcceptingPetriNet" rev="6.5.43" />
         <dependency org="org.rapidprom" name="CPNet" rev="6.5.61" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.159" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.43" />
         <dependency org="org.rapidprom" name="Stream" rev="6.5.51" />
     </dependencies>
 </ivy-module>

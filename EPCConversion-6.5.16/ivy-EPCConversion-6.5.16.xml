@@ -20,6 +20,6 @@
     <dependencies>
         <dependency org="org.rapidprom" name="EPC" rev="6.5.18" />
         <dependency org="org.rapidprom" name="Murata" rev="6.5.32" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.43" />
     </dependencies>
 </ivy-module>

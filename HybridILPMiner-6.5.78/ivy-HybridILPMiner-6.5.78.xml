@@ -28,7 +28,7 @@
         <dependency org="org.rapidprom" name="Log" rev="6.5.159" />
         <dependency org="org.rapidprom" name="LPEngine" rev="6.5.52" />
         <dependency org="org.rapidprom" name="Murata" rev="6.5.32" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.43" />
         <dependency org="org.rapidprom" name="PNetAlignmentAnalysis" rev="6.5.15" />
         <dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.26" />
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.50" />

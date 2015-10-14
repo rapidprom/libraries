@@ -18,7 +18,7 @@
     </configurations>
     <dependencies>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"/>
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38"/>
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.43"/>
         <dependency org="org.rapidprom" name="Widgets" rev="6.5.97"/>
     </dependencies>
 </ivy-module>

@@ -19,7 +19,7 @@
     <dependencies>
         <dependency org="org.rapidprom" name="Flex" rev="6.5.18" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.159" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.43" />
         <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" />
      </dependencies>
 </ivy-module>
