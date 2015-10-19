@@ -17,7 +17,7 @@
         <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
     </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="AcceptingPetriNet" rev="6.5.43" />
+        <dependency org="org.rapidprom" name="AcceptingPetriNet" rev="6.5.47" />
         <dependency org="org.rapidprom" name="CPNet" rev="6.5.61" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.159" />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.43" />
