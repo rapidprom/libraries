@@ -18,7 +18,7 @@
         <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
     </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66" />
+        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom.thirdparty.resource" name="dot" rev="na-1" conf="*" />
         <dependency org="org.rapidprom.thirdparty.lib" name="grappa" rev="na-1" conf="*" />
         <dependency org="org.rapidprom.thirdparty.lib" name="VectorGraphics2D" rev="0.9.1" conf="*" />

@@ -18,10 +18,10 @@
         <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
     </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64" />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.159" />
-        <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.24" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38" />
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.24"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.38"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
         <dependency org="org.rapidprom.thirdparty.lib" name="oplall" rev="na-1" conf="*" />
      </dependencies>

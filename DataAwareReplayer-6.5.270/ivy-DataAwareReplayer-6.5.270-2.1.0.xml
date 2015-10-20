@@ -18,14 +18,14 @@
         <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
     </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66" />
-        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64" />
-        <dependency org="org.rapidprom" name="DataPetriNets" rev="6.5.191" />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.159" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.43" />
-        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21" />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" />
-        <dependency org="org.rapidprom" name="XESAlignmentExtension" rev="6.5.19" />
+        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="DataPetriNets" rev="6.5.191"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.43"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="XESAlignmentExtension" rev="6.5.19"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom.thirdparty.lib" name="gurobi" rev="6.04" conf="*" />
         <dependency org="it.unimi.dsi" name="fastutil" rev="7.0.7" conf="*" />
         <dependency org="org.scijava" name="jep" rev="2.4.2" conf="*" />

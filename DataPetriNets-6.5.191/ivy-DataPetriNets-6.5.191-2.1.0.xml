@@ -18,13 +18,13 @@
         <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
     </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64" />
-        <dependency org="org.rapidprom" name="Daikon" rev="6.5.3" />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.159" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.43" />
-        <dependency org="org.rapidprom" name="GraphViz" rev="6.5.112" />
-        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21" />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" />
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="Daikon" rev="6.5.3"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.43"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="GraphViz" rev="6.5.112"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97"  rapidprom:release="2.1.0" />
         <dependency org="args4j" name="args4j" rev="2.0.23" conf="*" />
         <dependency org="com.fifesoft" name="rsyntaxtextarea" rev="2.5.7" conf="*" />
         <dependency org="com.fifesoft" name="autocomplete" rev="2.5.7" conf="*" />

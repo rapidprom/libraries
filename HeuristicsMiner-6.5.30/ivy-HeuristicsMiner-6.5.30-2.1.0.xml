@@ -18,9 +18,9 @@
         <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
     </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="Flex" rev="6.5.18" />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.159" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.43" />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" />
+        <dependency org="org.rapidprom" name="Flex" rev="6.5.18"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.43"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97"  rapidprom:release="2.1.0" />
      </dependencies>
 </ivy-module>
