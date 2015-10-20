@@ -1,4 +1,0 @@
-<ivy-module version="2.0">
-    <info organisation="org.rapidprom.thirdparty.lib" module="opencsv" revision="2.4-patched">
-    </info>
-</ivy-module>
