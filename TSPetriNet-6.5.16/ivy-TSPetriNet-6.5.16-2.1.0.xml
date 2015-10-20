@@ -1,10 +1,10 @@
 <ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
     <info 
         organisation="org.rapidprom" 
-        module="TSPetrinet" 
+        module="TSPetriNet" 
         revision="6.5.16" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/TSPetrinet-6.5.16"
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/TSPetriNet-6.5.16"
         rapidprom:desc="Transition Systems vs. Petri nets"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"
