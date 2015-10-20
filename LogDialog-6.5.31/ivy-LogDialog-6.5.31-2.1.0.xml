@@ -1,0 +1,24 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="LogDialog" 
+        revision="6.5.31" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/LogDialog-6.5.31"
+        rapidprom:desc="Log Dialog"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="LGPL"
+        rapidprom:author="H.M.W. Verbeek"
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    rapidprom:release="2.1.0"
+    />
+    <configurations>
+        <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
+    </configurations>
+    <dependencies>
+        <dependency org="org.rapidprom" name="Log" rev="6.5.159" />
+        <dependency org="org.rapidprom" name="InteractiveVisualization" rev="6.5.17" />
+    </dependencies>
+</ivy-module>

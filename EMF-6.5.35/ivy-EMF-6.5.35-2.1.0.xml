@@ -1,0 +1,27 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="EMF" 
+        revision="6.5.35" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/EMF-6.5.35"
+        rapidprom:desc="Eclipse Modeling Framework"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="EPL"
+        rapidprom:author="D.M.M. Schunselaar" 
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    rapidprom:release="2.1.0"
+    />
+    <configurations>
+        <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
+    </configurations>
+    <dependencies>
+        <dependency org="org.eclipse.birt.runtime.3_7_1" name="org.eclipse.emf.common" rev="2.7.0" conf="*"/>
+        <dependency org="org.eclipse.emf" name="org.eclipse.emf.ecore" rev="2.11.0-v20150123-0347" conf="*"/>
+        <dependency org="org.eclipse.emf" name="org.eclipse.emf.ecore.xmi" rev="2.11.0-v20150123-0347" conf="*" />
+        <dependency org="org.eclipse.uml2" name="org.eclipse.uml2.common" rev="1.5.0.v201005031530" conf="*"/>
+        <dependency org="org.rapidprom.thirdparty.lib" name="org.eclipse.uml2.uml" rev="3.1.2.v201010261927" conf="*"/>
+     </dependencies>
+</ivy-module>
