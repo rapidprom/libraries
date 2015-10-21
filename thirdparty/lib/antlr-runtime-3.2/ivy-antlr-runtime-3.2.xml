@@ -1,4 +1,0 @@
-<ivy-module version="2.0">
-    <info organisation="org.rapidprom.thirdparty.lib" module="antlr-runtime" revision="3.2">
-    </info>
-</ivy-module>
