@@ -1,0 +1,4 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom.thirdparty.lib" module="VectorGraphics2D" revision="0.9.1">
+    </info>
+</ivy-module>

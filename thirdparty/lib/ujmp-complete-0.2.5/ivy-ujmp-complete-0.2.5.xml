@@ -1,0 +1,4 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom.thirdparty.lib" module="ujmp-complete" revision="0.2.5">
+    </info>
+</ivy-module>

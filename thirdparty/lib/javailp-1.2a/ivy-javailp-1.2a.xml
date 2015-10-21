@@ -1,0 +1,4 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom.thirdparty.lib" module="javailp" revision="1.2a">
+    </info>
+</ivy-module>
