@@ -19,7 +19,7 @@
     </configurations>
     <dependencies>
         <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66"  rapidprom:release="2.1.0" />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.159"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.180"  rapidprom:release="2.1.0" />
 		<dependency org="org.rapidprom" name="BPMN" rev="6.5.35"  rapidprom:release="2.1.0" />
 		<dependency org="org.rapidprom" name="Flex" rev="6.5.18"  rapidprom:release="2.1.0" />
 		<dependency org="org.rapidprom" name="DataPetriNets" rev="6.5.191"  rapidprom:release="2.1.0" />

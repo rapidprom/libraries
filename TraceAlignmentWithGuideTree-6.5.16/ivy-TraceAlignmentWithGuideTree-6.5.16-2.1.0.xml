@@ -19,6 +19,6 @@
     </configurations>
     <dependencies>
         <dependency org="org.rapidprom" name="GuideTreeMiner" rev="6.5.18"  rapidprom:release="2.1.0" />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.159"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.180"  rapidprom:release="2.1.0" />
     </dependencies>
 </ivy-module>
