@@ -18,6 +18,6 @@
         <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
     </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="Log" rev="6.5.180"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.183"  rapidprom:release="2.1.0" />
     </dependencies>
 </ivy-module>

@@ -20,7 +20,7 @@
     <dependencies>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom" name="Daikon" rev="6.5.3"  rapidprom:release="2.1.0" />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.180"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.183"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.43"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom" name="GraphViz" rev="6.5.123"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21"  rapidprom:release="2.1.0" />
