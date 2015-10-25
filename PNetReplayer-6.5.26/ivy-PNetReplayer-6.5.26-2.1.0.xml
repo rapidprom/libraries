@@ -22,7 +22,7 @@
         <dependency org="org.rapidprom" name="Log" rev="6.5.183"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom" name="LogDialog" rev="6.5.31"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.49"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.51"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom" name="Widgets" rev="6.5.97"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom.thirdparty.resource" name="sara" rev="na-1" conf="*" />
     </dependencies>

@@ -19,7 +19,7 @@
     </configurations>
     <dependencies>
         <dependency org="org.rapidprom" name="TransitionSystems" rev="6.5.36"  rapidprom:release="2.1.0" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.49"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.51"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom" name="Petrify" rev="6.5.17"  rapidprom:release="2.1.0" />
     </dependencies>
 </ivy-module>
