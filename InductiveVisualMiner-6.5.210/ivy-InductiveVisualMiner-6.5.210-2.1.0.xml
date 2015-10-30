@@ -22,7 +22,7 @@
         <dependency org="org.rapidprom" name="EvolutionaryTreeMiner" rev="6.5.53"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom" name="GraphViz" rev="6.5.126"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.122"  rapidprom:release="2.1.0" />
-        <dependency org="org.jblas" name="jblas" rev="1.2.4" conf="*" />
+        <dependency org="org.rapidprom.thirdparty.lib" name="jblas" rev="1.2.4" conf="*" />
         <dependency org="org.rapidprom" name="Widgets" rev="6.5.97"  rapidprom:release="2.1.0" />
      </dependencies>
 </ivy-module>
