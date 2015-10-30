@@ -24,7 +24,7 @@
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.54"  rapidprom:release="2.1.0" />
 		<dependency org="org.rapidprom" name="PNAnalysis" rev="6.5.36"  rapidprom:release="2.1.0" />
 		<dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"  rapidprom:release="2.1.0" />
-		<dependency org="org.rapidprom" name="YAWL" rev="6.5.26"  rapidprom:release="2.1.0" />
+		<dependency org="org.rapidprom" name="YAWL" rev="6.5.30"  rapidprom:release="2.1.0" />
 		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.26"  rapidprom:release="2.1.0" />
      </dependencies>
 </ivy-module>
