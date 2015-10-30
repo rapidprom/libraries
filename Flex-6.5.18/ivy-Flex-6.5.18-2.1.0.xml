@@ -21,6 +21,6 @@
         <dependency org="org.rapidprom" name="Log" rev="6.5.183"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom" name="LogDialog" rev="6.5.31"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom" name="Performance" rev="6.5.18"  rapidprom:release="2.1.0" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.51"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.54"  rapidprom:release="2.1.0" />
      </dependencies>
 </ivy-module>
