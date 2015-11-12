@@ -18,7 +18,7 @@
         <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
     </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="EventStream" rev="6.5.42"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="EventStream" rev="6.5.46"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.122"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.50"  rapidprom:release="2.1.0" />
     </dependencies>
