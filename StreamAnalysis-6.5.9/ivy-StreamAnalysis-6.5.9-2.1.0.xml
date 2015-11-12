@@ -23,6 +23,6 @@
         <dependency org="org.rapidprom" name="EventStream" rev="6.5.46" rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom" name="PNetAlignmentAnalysis" rev="6.5.15" rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.26" rapidprom:release="2.1.0" />
-        <dependency org="org.rapidprom" name="StreamInductiveMiner" rev="6.5.27" rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="StreamInductiveMiner" rev="6.5.31" rapidprom:release="2.1.0" />
     </dependencies>
 </ivy-module>
