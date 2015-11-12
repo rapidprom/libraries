@@ -2,9 +2,9 @@
     <info 
         organisation="org.rapidprom" 
         module="CPNet" 
-        revision="6.5.61" 
+        revision="6.5.69" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/CPNet-6.5.61"
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/CPNet-6.5.69"
         rapidprom:desc="CPNet"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL" 
