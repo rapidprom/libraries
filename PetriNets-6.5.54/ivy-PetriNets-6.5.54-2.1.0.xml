@@ -20,6 +20,6 @@
     <dependencies>
         <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66"  rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.183"  rapidprom:release="2.1.0" />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97"  rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.109"  rapidprom:release="2.1.0" />
     </dependencies>
 </ivy-module>
