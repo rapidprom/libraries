@@ -28,6 +28,6 @@
         <dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.26" rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.50" rapidprom:release="2.1.0" />
         <dependency org="org.rapidprom" name="ProjectedRecallAndPrecision" rev="6.5.10" rapidprom:release="2.1.0" />
-        <dependency org="org.rapidprom" name="StreamInductiveMiner" rev="6.5.32" rapidprom:release="2.1.0" />
+        <dependency org="org.rapidprom" name="StreamInductiveMiner" rev="6.5.33" rapidprom:release="2.1.0" />
     </dependencies>
 </ivy-module>
