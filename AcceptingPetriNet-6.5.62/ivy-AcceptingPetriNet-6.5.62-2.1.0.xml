@@ -2,9 +2,9 @@
     <info 
         organisation="org.rapidprom" 
         module="AcceptingPetriNet" 
-        revision="6.5.59" 
+        revision="6.5.62" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/AcceptingPetriNet-6.5.59"
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/AcceptingPetriNet-6.5.62"
         rapidprom:desc="Accepting Petri Net"
         rapidprom:org="Eindhoven University of Technology"
         rapidprom:license="LGPL" 
