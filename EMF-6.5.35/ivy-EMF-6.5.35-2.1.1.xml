@@ -19,9 +19,9 @@
     </configurations>
     <dependencies>
         <dependency org="org.eclipse.birt.runtime.3_7_1" name="org.eclipse.emf.common" rev="2.7.0" conf="*"/>
-        <dependency org="org.eclipse.emf" name="org.eclipse.emf.ecore" rev="2.8.3.v20130125-0546" conf="*"/>
-        <dependency org="org.eclipse.emf" name="org.eclipse.emf.ecore.xmi" rev="2.5.0.v20100521-1846" conf="*" />
-        <dependency org="org.eclipse.uml2" name="org.eclipse.uml2.common" rev="1.5.0.v201005031530" conf="*"/>
+        <dependency org="org.rapidprom.thirdparty.lib" name="org.eclipse.emf.ecore" rev="2.8.3.v20130125-0546" conf="*"/>
+        <dependency org="org.eclipse.emf" name="org.eclipse.emf.ecore.xmi" rev="2.5.0.v20100521-1846" conf="*" transitive="false"/>
+        <dependency org="org.eclipse.uml2" name="org.eclipse.uml2.common" rev="1.5.0.v201005031530" conf="*" transitive="false"/>
         <dependency org="org.rapidprom.thirdparty.lib" name="org.eclipse.uml2.uml" rev="3.1.2.v201010261927" conf="*"/>
      </dependencies>
 </ivy-module>

@@ -24,7 +24,7 @@
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.54"  rapidprom:release="2.1.1" />
         <dependency org="org.rapidprom" name="GraphViz" rev="6.5.126"  rapidprom:release="2.1.1" />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21"  rapidprom:release="2.1.1" />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97"  rapidprom:release="2.1.1" />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.109"  rapidprom:release="2.1.1" />
         <dependency org="args4j" name="args4j" rev="2.0.23" conf="*" />
         <dependency org="com.fifesoft" name="rsyntaxtextarea" rev="2.5.7" conf="*" />
         <dependency org="com.fifesoft" name="autocomplete" rev="2.5.7" conf="*" />
