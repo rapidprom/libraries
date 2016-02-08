@@ -19,7 +19,7 @@
     </configurations>
     <dependencies>
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.65"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="TransitionSystems" rev="6.5.40"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="TransitionSystems" rev="6.5.54"  rapidprom:release="3.0.0" />
         <!-- we try not to include lola as it is not fully supporting mac/linux currently -->
         <!-- dependency org="org.rapidprom.thirdparty.resources" name="lola" rev="na-1" /-->
     </dependencies>
