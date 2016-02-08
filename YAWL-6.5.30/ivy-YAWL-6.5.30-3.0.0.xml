@@ -20,7 +20,7 @@
     <dependencies>
         <dependency org="org.rapidprom" name="Flex" rev="6.5.33"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.211"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="Performance" rev="6.5.18"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="Performance" rev="6.5.33"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom.thirdparty.lib" name="YAWLEditor-wo.jgraph" rev="2.3.5" conf="*" />
     </dependencies>
 </ivy-module>
