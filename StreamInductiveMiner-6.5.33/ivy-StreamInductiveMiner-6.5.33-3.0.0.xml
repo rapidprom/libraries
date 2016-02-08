@@ -20,7 +20,7 @@
     <dependencies>
         <dependency org="org.rapidprom" name="AcceptingPetriNet" rev="6.5.62"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="EventStream" rev="6.5.50" rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.122" rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.153" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.50" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Stream" rev="6.5.64" rapidprom:release="3.0.0" />
     </dependencies>
