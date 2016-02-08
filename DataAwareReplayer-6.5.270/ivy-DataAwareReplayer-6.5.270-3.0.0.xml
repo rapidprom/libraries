@@ -22,7 +22,7 @@
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="DataPetriNets" rev="6.5.191"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.211"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.54"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.65"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Widgets" rev="6.5.109"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="XESAlignmentExtension" rev="6.5.19"  rapidprom:release="3.0.0" />

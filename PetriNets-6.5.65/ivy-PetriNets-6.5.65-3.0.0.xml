@@ -2,7 +2,7 @@
     <info 
         organisation="org.rapidprom" 
         module="PetriNets" 
-        revision="6.5.565" 
+        revision="6.5.65" 
         rapidprom:os="all"
         rapidprom:url="https://github.com/rapidprom/libraries/tree/master/PetriNets-6.5.65"
         rapidprom:desc="Petri Nets"
