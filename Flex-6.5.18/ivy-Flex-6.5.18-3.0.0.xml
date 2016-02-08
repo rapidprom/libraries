@@ -19,7 +19,7 @@
     </configurations>
     <dependencies>
         <dependency org="org.rapidprom" name="Log" rev="6.5.211"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="LogDialog" rev="6.5.31"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="LogDialog" rev="6.5.42"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Performance" rev="6.5.18"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.54"  rapidprom:release="3.0.0" />
      </dependencies>
