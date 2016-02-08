@@ -1,0 +1,40 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="ApacheUtils" 
+        revision="6.5.66" 
+        rapidprom:os="all" 
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/ApacheUtils-6.5.66"
+        rapidprom:desc="Apache Utils"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="Apache 2.0" 
+        rapidprom:author="H.M.W. Verbeek" 
+        rapidprom:auto="true" 
+        rapidprom:hasPlugins="false" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    rapidprom:release="3.0.0"
+    />
+    <configurations>
+        <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
+    </configurations>
+    <dependencies>
+        <dependency org="com.ning" name="compress-lzf" rev="1.0.3" conf="*" />
+        <dependency org="com.fasterxml.util" name="java-merge-sort" rev="1.0.0" conf="*" />
+        <dependency org="com.google.code.gson" name="gson" rev="2.3.1" transitive="false" conf="*" />
+        <dependency org="com.googlecode.juniversalchardet" name="juniversalchardet" rev="1.0.3" conf="*" />
+        <dependency org="commons-beanutils" name="commons-beanutils" rev="1.8.3" conf="*" />
+        <dependency org="commons-cli" name="commons-cli" rev="1.2" conf="*" />
+        <dependency org="commons-collections" name="commons-collections" rev="3.2.1" conf="*" />
+        <dependency org="commons-digester" name="commons-digester" rev="2.1" conf="*" />
+        <dependency org="commons-io" name="commons-io" rev="2.4" conf="*" />
+        <dependency org="commons-logging" name="commons-logging" rev="1.1.2" conf="*" />
+        <dependency org="de.congrace" name="exp4j" rev="0.3.8" transitive="false" conf="*" />
+        <!-- svzelst@20150918 somehow this version of uncommons refers to an unexisting version of jfreechart, hence it is not transitive-->
+        <dependency org="io.gatling.uncommons.maths" name="uncommons-maths" rev="1.2.3" transitive="false" conf="*" />
+        <dependency org="log4j" name="log4j" rev="1.2.15" conf="*" />
+        <dependency org="org.apache.ant" name="ant" rev="1.9.4" conf="*" />
+        <dependency org="org.apache.commons" name="commons-lang3" rev="3.1" conf="*" />
+        <dependency org="org.reflections" name="reflections" rev="0.9.10" conf="*" />
+        <dependency org="org.rapidprom.thirdparty.lib" name="opencsv" rev="2.4-patched" conf="*" />
+    </dependencies>
+</ivy-module>
