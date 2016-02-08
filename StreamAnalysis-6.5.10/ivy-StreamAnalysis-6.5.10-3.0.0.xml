@@ -18,7 +18,7 @@
         <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
     </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21" rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="ETConformance" rev="6.5.15" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="EventStream" rev="6.5.42" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.183" rapidprom:release="3.0.0" />

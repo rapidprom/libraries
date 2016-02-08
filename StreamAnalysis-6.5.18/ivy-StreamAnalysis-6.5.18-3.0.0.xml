@@ -19,7 +19,7 @@
     </configurations>
     <dependencies>
         <dependency org="org.rapidprom" name="AcceptingPetriNet" rev="6.5.62" rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21" rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="ETConformance" rev="6.5.15" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="EventStream" rev="6.5.50" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.183" rapidprom:release="3.0.0" />

@@ -18,7 +18,7 @@
         <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
     </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="EvolutionaryTreeMiner" rev="6.5.53"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="GraphViz" rev="6.5.126"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.122"  rapidprom:release="3.0.0" />
