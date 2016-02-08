@@ -22,6 +22,6 @@
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="CausalActivityGraph" rev="6.5.14"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.211"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.5.109" rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.122" rapidprom:release="3.0.0" />
     </dependencies>
 </ivy-module>

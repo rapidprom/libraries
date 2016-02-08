@@ -26,7 +26,7 @@
 		<dependency org="org.rapidprom" name="PNAnalysis" rev="6.5.45"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="ProcessTree" rev="6.5.61"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="PetriNets" rev="6.5.65"  rapidprom:release="3.0.0" />
-		<dependency org="org.rapidprom" name="Widgets" rev="6.5.109"  rapidprom:release="3.0.0" />
+		<dependency org="org.rapidprom" name="Widgets" rev="6.5.122"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="Properties" rev="6.5.68"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="FlexReplayer" rev="6.5.25"  rapidprom:release="3.0.0" />
     </dependencies>
