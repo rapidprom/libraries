@@ -1,0 +1,30 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="FlexReplayer" 
+        revision="6.5.25" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/FlexReplayer-6.5.25"
+        rapidprom:desc="Flex Replayer"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="LGPL"
+        rapidprom:author="Arya Adriansyah" 
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    rapidprom:release="3.0.0"
+    />
+    <configurations>
+        <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
+    </configurations>
+    <dependencies>
+        <dependency org="org.rapidprom" name="Log" rev="6.5.183"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="LogDialog" rev="6.5.31"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="Flex" rev="6.5.33"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.54"  rapidprom:release="3.0.0" />
+		<dependency org="org.rapidprom" name="PNAnalysis" rev="6.5.36"  rapidprom:release="3.0.0" />
+		<dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"  rapidprom:release="3.0.0" />
+		<dependency org="org.rapidprom" name="YAWL" rev="6.5.30"  rapidprom:release="3.0.0" />
+		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.26"  rapidprom:release="3.0.0" />
+     </dependencies>
+</ivy-module>
