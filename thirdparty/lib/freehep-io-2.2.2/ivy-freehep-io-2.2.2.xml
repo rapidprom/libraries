@@ -1,0 +1,4 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom.thirdparty.lib" module="freehep-io" revision="2.2.2">
+    </info>
+</ivy-module>

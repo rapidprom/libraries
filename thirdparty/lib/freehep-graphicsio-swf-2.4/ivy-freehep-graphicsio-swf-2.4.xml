@@ -1,0 +1,4 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom.thirdparty.lib" module="freehep-graphicsio-swf" revision="2.4">
+    </info>
+</ivy-module>
