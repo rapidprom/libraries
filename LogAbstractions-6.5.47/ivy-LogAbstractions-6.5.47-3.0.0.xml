@@ -1,14 +1,14 @@
 <ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
     <info 
         organisation="org.rapidprom" 
-        module="AlphaMiner" 
-        revision="6.5.16" 
+        module="LogAbstractions" 
+        revision="6.5.47" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/AlphaMiner-6.5.16"
-        rapidprom:desc="Alpha Miner"
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/LogAbstractions-6.5.47"
+        rapidprom:desc="LogAbstractions"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"
-        rapidprom:author="B.F. van Dongen" 
+        rapidprom:author="H.M.W. Verbeek"
         rapidprom:auto="true"
         rapidprom:hasPlugins="true" 
         rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
@@ -19,7 +19,5 @@
     </configurations>
     <dependencies>
         <dependency org="org.rapidprom" name="Log" rev="6.5.211"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.47"  rapidprom:release="3.0.0" />
-		<dependency org="org.rapidprom" name="PetriNets" rev="6.5.54"  rapidprom:release="3.0.0" />
     </dependencies>
 </ivy-module>

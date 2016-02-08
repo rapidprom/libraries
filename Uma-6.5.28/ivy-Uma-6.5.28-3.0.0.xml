@@ -20,7 +20,7 @@
     <dependencies>
         <dependency org="org.rapidprom" name="TransitionSystems" rev="6.5.40"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.54"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.24"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.47"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="Animation" rev="6.5.50"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="Widgets" rev="6.5.109"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.26"  rapidprom:release="3.0.0" />
