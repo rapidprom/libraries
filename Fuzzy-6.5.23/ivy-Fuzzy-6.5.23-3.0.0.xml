@@ -20,7 +20,7 @@
     <dependencies>
         <dependency org="org.rapidprom" name="Animation" rev="6.5.29"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.183"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.211"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.24"  rapidprom:release="3.0.0" />
     </dependencies>
 </ivy-module>

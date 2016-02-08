@@ -25,7 +25,7 @@
         <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.122"  rapidprom:release="3.0.0" />
         <dependency org="sshtools" name="j2ssh-core" rev="0.2.9" conf="*" />
         <dependency org="sshtools" name="j2ssh-common" rev="0.2.9" conf="*" />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.183"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.211"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" /> 
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.50"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Properties" rev="6.5.68"  rapidprom:release="3.0.0" />
