@@ -25,7 +25,7 @@
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.65"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Widgets" rev="6.5.122"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="XESAlignmentExtension" rev="6.5.19"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="XESAlignmentExtension" rev="6.5.29"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom.thirdparty.lib" name="gurobi" rev="6.04" conf="*" />
         <dependency org="it.unimi.dsi" name="fastutil" rev="7.0.7" conf="*" />
         <dependency org="org.scijava" name="jep" rev="2.4.2" conf="*" />
