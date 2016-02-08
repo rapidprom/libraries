@@ -24,6 +24,6 @@
         <dependency org="org.rapidprom" name="BPMN" rev="6.5.56"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="YAWL" rev="6.5.30"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="Properties" rev="6.5.68"  rapidprom:release="3.0.0" />
-		<dependency org="org.rapidprom" name="EPC" rev="6.5.18"  rapidprom:release="3.0.0" />
+		<dependency org="org.rapidprom" name="EPC" rev="6.5.34"  rapidprom:release="3.0.0" />
     </dependencies>
 </ivy-module>
