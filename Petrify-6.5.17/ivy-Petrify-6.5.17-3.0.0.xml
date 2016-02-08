@@ -18,7 +18,7 @@
         <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
     </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="TransitionSystems" rev="6.5.54"  rapidprom:release="3.0.0" />
-		<dependency org="org.rapidprom" name="PetriNets" rev="6.5.65"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="TransitionSystems" rev="6.5.40"  rapidprom:release="3.0.0" />
+		<dependency org="org.rapidprom" name="PetriNets" rev="6.5.54"  rapidprom:release="3.0.0" />
     </dependencies>
 </ivy-module>

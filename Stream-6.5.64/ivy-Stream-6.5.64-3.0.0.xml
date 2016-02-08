@@ -19,7 +19,7 @@
     </configurations>
     <dependencies>
         <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66" rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79" rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.5.122" rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64" rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.109" rapidprom:release="3.0.0" />
     </dependencies>
 </ivy-module>

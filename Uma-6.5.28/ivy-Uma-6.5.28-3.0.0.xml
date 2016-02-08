@@ -18,20 +18,20 @@
         <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
     </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="TransitionSystems" rev="6.5.54"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.65"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.47"  rapidprom:release="3.0.0" />
-		<dependency org="org.rapidprom" name="Animation" rev="6.5.50"  rapidprom:release="3.0.0" />
-		<dependency org="org.rapidprom" name="Widgets" rev="6.5.122"  rapidprom:release="3.0.0" />
-		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.51"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="TransitionSystems" rev="6.5.40"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.54"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.24"  rapidprom:release="3.0.0" />
+		<dependency org="org.rapidprom" name="Animation" rev="6.5.29"  rapidprom:release="3.0.0" />
+		<dependency org="org.rapidprom" name="Widgets" rev="6.5.109"  rapidprom:release="3.0.0" />
+		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.26"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="OSService" rev="6.5.19"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
-		<dependency org="org.rapidprom" name="LogDialog" rev="6.5.42"  rapidprom:release="3.0.0" />
-		<dependency org="org.rapidprom" name="Log" rev="6.5.211"  rapidprom:release="3.0.0" />
+		<dependency org="org.rapidprom" name="LogDialog" rev="6.5.31"  rapidprom:release="3.0.0" />
+		<dependency org="org.rapidprom" name="Log" rev="6.5.183"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="ILPMiner" rev="6.5.24"  rapidprom:release="3.0.0" />
-		<dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"  rapidprom:release="3.0.0" />
-		<dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"  rapidprom:release="3.0.0" />
-		<dependency org="org.rapidprom" name="InteractiveVisualization" rev="6.5.33"  rapidprom:release="3.0.0" />
+		<dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21"  rapidprom:release="3.0.0" />
+		<dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"  rapidprom:release="3.0.0" />
+		<dependency org="org.rapidprom" name="InteractiveVisualization" rev="6.5.17"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom.thirdparty.lib" name="pnapi-java" rev="na-1" conf="*" />
         <dependency org="org.antlr" name="antlr-runtime" rev="3.2" conf="*" />
 		<dependency org="org.rapidprom.thirdparty.lib" name="uma" rev="na-1" conf="*" />
