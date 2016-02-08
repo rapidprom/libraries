@@ -27,7 +27,7 @@
 		<dependency org="org.rapidprom" name="OSService" rev="6.5.19"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
 		<dependency org="org.rapidprom" name="LogDialog" rev="6.5.31"  rapidprom:release="3.0.0" />
-		<dependency org="org.rapidprom" name="Log" rev="6.5.183"  rapidprom:release="3.0.0" />
+		<dependency org="org.rapidprom" name="Log" rev="6.5.211"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="ILPMiner" rev="6.5.24"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"  rapidprom:release="3.0.0" />

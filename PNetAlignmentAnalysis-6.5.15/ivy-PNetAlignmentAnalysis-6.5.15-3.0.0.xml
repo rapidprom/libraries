@@ -20,7 +20,7 @@
     <dependencies>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="GuideTreeMiner" rev="6.5.18"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.183"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.211"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.54"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.26"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="TraceAlignmentWithGuideTree" rev="6.5.16"  rapidprom:release="3.0.0" />
