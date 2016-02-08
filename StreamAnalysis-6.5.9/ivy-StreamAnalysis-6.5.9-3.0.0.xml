@@ -22,7 +22,7 @@
         <dependency org="org.rapidprom" name="ETConformance" rev="6.5.15" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="EventStream" rev="6.5.42" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="PNetAlignmentAnalysis" rev="6.5.35" rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.26" rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.51" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="StreamInductiveMiner" rev="6.5.27" rapidprom:release="3.0.0" />
     </dependencies>
 </ivy-module>

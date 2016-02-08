@@ -23,7 +23,7 @@
         <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.47"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="Animation" rev="6.5.50"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="Widgets" rev="6.5.109"  rapidprom:release="3.0.0" />
-		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.26"  rapidprom:release="3.0.0" />
+		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.51"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="OSService" rev="6.5.19"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
 		<dependency org="org.rapidprom" name="LogDialog" rev="6.5.42"  rapidprom:release="3.0.0" />
