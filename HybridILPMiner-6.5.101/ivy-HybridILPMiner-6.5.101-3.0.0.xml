@@ -21,7 +21,7 @@
         <dependency org="org.rapidprom" name="AcceptingPetriNet" rev="6.5.62"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="CausalActivityGraph" rev="6.5.29"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="CausalActivityGraphCreator" rev="6.5.20"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="CausalActivityGraphCreator" rev="6.5.36"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="ETConformance" rev="6.5.15"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.47"  rapidprom:release="3.0.0" />

@@ -20,7 +20,7 @@
     <dependencies>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="CausalActivityGraph" rev="6.5.29"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="CausalActivityGraphCreator" rev="6.5.20"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="CausalActivityGraphCreator" rev="6.5.36"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="CausalActivityMatrix" rev="6.5.24"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="CausalActivityMatrixMiner" rev="6.5.34"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21"  rapidprom:release="3.0.0" />
