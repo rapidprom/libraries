@@ -4,7 +4,7 @@
         module="CausalActivityGraph" 
         revision="6.5.14" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/CPNet-6.5.56"
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/CausalActivityGraph-6.5.14"
         rapidprom:desc="Causal Activity Graph"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL" 
