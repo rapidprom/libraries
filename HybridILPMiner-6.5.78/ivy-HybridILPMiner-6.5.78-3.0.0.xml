@@ -4,7 +4,7 @@
         module="HybridILPMiner" 
         revision="6.5.78" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/HeuristicsMiner-6.5.30"
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/HybridILPMiner-6.5.78"
         rapidprom:desc="Hybrid ILP Miner"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"
