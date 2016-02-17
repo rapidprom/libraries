@@ -1,11 +1,11 @@
 <ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
     <info 
         organisation="org.rapidprom" 
-        module="PNetAlignmentAnalysis" 
-        revision="6.5.35" 
+        module="PNetReplayer" 
+        revision="6.5.52" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/PNetAlignmentAnalysis-6.5.35"
-        rapidprom:desc="Petri Net Alignment Analysis"
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/PNetReplayer-6.5.52"
+        rapidprom:desc="Petri Net Replayer"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"
         rapidprom:author="Arya Adriansyah"
@@ -19,11 +19,11 @@
     </configurations>
     <dependencies>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="GuideTreeMiner" rev="6.5.18"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.211"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="LogDialog" rev="6.5.42"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.65"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.52"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="TraceAlignmentWithGuideTree" rev="6.5.32"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Widgets" rev="6.5.122"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom.thirdparty.resource" name="sara" rev="na-1" conf="*" />
     </dependencies>
 </ivy-module>
