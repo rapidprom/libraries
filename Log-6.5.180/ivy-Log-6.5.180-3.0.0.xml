@@ -24,6 +24,6 @@
         <dependency org="org.rapidprom.thirdparty.lib" name="OpenXES-XStream" rev="20150807" conf="*" />
         <dependency org="net.sf.saxon" name="Saxon-HE" rev="9.6.0-7" conf="*"/>
         <dependency org="com.univocity" name="univocity-parsers" rev="1.5.5" conf="*" />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.5.97" rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.128" rapidprom:release="3.0.0" />
     </dependencies>
 </ivy-module>
