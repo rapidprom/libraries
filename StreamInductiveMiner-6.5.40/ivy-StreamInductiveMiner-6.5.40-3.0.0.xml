@@ -2,10 +2,10 @@
     <info 
         organisation="org.rapidprom" 
         module="StreamInductiveMiner" 
-        revision="6.5.39" 
+        revision="6.5.40" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/StreamInductiveMiner-6.5.39"
-        rapidprom:desc="Stream InductiveMiner"
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/StreamInductiveMiner-6.5.40"
+        rapidprom:desc="Stream Inductive Miner"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"
         rapidprom:author="S.J. van Zelst"
