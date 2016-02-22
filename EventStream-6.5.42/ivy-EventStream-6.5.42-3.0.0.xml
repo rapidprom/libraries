@@ -22,6 +22,6 @@
         <dependency org="org.rapidprom" name="CPNet" rev="6.5.61"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.211"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.65"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="Stream" rev="6.5.51"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="Stream" rev="6.5.79"  rapidprom:release="3.0.0" />
     </dependencies>
 </ivy-module>
