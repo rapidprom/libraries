@@ -2,9 +2,9 @@
     <info 
         organisation="org.rapidprom" 
         module="EventStream" 
-        revision="6.5.59" 
+        revision="6.5.61" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/EventStream-6.5.59"
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/EventStream-6.5.61"
         rapidprom:desc="Event Stream"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"
