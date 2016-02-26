@@ -20,7 +20,7 @@
     <dependencies>
         <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.211"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.225"  rapidprom:release="3.0.0" />
 		<dependency org="org.ow2.asm" name="asm" rev="4.2" conf="*"/>
 		<dependency org="com.googlecode.concurrent-trees" name="concurrent-trees" rev="2.4.0" conf="*"/>
 		<dependency org="com.googlecode.cqengine" name="cqengine" rev="2.1.0" conf="*"/>

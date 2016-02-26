@@ -19,7 +19,7 @@
     </configurations>
     <dependencies>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.211"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.225"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.65"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Properties" rev="6.5.68"  rapidprom:release="3.0.0" />

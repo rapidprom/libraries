@@ -20,7 +20,7 @@
     <dependencies>
         <dependency org="org.rapidprom" name="EPC" rev="6.5.18"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="EPCConversion" rev="6.5.16"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.211"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.225"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Murata" rev="6.5.39"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.65"  rapidprom:release="3.0.0" />
     </dependencies>

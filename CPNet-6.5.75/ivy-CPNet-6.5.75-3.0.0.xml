@@ -21,7 +21,7 @@
         <dependency org="org.rapidprom.thirdparty.lib" name="AccessCPN" rev="na-1" conf="*"/>
         <dependency org="org.rapidprom" name="EMF" rev="6.5.35" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom.thirdparty.lib" name="javabdd" rev="1.0b2" conf="*" />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.211" rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.225" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.65" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Widgets" rev="6.5.128" rapidprom:release="3.0.0" />
     </dependencies>
