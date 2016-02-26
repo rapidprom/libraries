@@ -1,0 +1,4 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom.thirdparty.lib" module="OpenXES" revision="20160212">
+    </info>
+</ivy-module>
