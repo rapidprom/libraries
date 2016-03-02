@@ -4,7 +4,7 @@
         module="StreamAnalysis" 
         revision="6.5.26" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/StreamAnalysis-6.5.24"
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/StreamAnalysis-6.5.26"
         rapidprom:desc="Stream Analysis Framework"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"
