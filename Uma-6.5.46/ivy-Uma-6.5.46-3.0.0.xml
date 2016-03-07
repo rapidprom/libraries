@@ -32,8 +32,8 @@
 		<dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="InteractiveVisualization" rev="6.5.17"  rapidprom:release="3.0.0" />
-		<dependency org="org.rapidprom.thirdparty.lib" name="pnapi-java" rev="na-1" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="pnapi-java" rev="na-2" conf="*" />
         <dependency org="org.antlr" name="antlr-runtime" rev="3.2" conf="*" />
-		<dependency org="org.rapidprom.thirdparty.lib" name="uma" rev="na-1" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="uma" rev="na-2" conf="*" />
     </dependencies>
 </ivy-module>
