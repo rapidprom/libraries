@@ -19,8 +19,8 @@
     </configurations>
     <dependencies>
 		<dependency org="org.rapidprom" name="Uma" rev="6.5.46"  rapidprom:release="3.0.0" />
-		<dependency org="org.rapidprom.thirdparty.lib" name="pnapi-java" rev="na-1" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="pnapi-java" rev="na-2" conf="*" />
         <dependency org="org.antlr" name="antlr-runtime" rev="3.2" conf="*" />
-		<dependency org="org.rapidprom.thirdparty.lib" name="uma" rev="na-1" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="uma" rev="na-2" conf="*" />
     </dependencies>
 </ivy-module>
