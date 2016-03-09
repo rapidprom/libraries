@@ -21,7 +21,7 @@
         <dependency org="org.rapidprom" name="AcceptingPetriNet" rev="6.5.62" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="CPNet" rev="6.5.84" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.225" rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.65" rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.71" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.50" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Stream" rev="6.5.79" rapidprom:release="3.0.0" />
     </dependencies>

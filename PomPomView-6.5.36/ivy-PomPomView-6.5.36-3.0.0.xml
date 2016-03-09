@@ -22,6 +22,6 @@
         <dependency org="org.rapidprom" name="EPCConversion" rev="6.5.16"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.225"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Murata" rev="6.5.48"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.65"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.71"  rapidprom:release="3.0.0" />
     </dependencies>
 </ivy-module>
