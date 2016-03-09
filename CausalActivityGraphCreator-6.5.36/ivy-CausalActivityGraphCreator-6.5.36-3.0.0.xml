@@ -25,7 +25,7 @@
        <dependency org="org.rapidprom" name="CausalActivityMatrix" rev="6.5.24" rapidprom:release="3.0.0" />
        <dependency org="org.rapidprom" name="CausalActivityMatrixMiner" rev="6.5.34" rapidprom:release="3.0.0" />
        <dependency org="org.rapidprom" name="GraphVisualizers" rev="6.5.23"  rapidprom:release="3.0.0" />
-       <dependency org="org.rapidprom" name="Log" rev="6.5.225" rapidprom:release="3.0.0" />
+       <dependency org="org.rapidprom" name="Log" rev="6.5.230" rapidprom:release="3.0.0" />
        <dependency org="org.rapidprom" name="Widgets" rev="6.5.128"  rapidprom:release="3.0.0" />
     </dependencies>
 </ivy-module>

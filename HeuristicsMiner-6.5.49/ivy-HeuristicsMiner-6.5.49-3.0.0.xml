@@ -19,7 +19,7 @@
     </configurations>
     <dependencies>
         <dependency org="org.rapidprom" name="Flex" rev="6.5.33"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.225"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.230"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.71"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Widgets" rev="6.5.128"  rapidprom:release="3.0.0" />
      </dependencies>

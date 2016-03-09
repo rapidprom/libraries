@@ -19,7 +19,7 @@
     </configurations>
     <dependencies>
         <dependency org="org.rapidprom" name="Animation" rev="6.5.29"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.225"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.230"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="OSService" rev="6.5.19"  rapidprom:release="3.0.0" />
     </dependencies>
 </ivy-module>

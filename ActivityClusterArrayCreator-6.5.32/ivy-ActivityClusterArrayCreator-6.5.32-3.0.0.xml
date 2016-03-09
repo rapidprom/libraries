@@ -21,7 +21,7 @@
         <dependency org="org.rapidprom" name="ActivityClusterArray" rev="6.5.32"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.64" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="CausalActivityGraph" rev="6.5.29"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.225"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.230"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Widgets" rev="6.5.128" rapidprom:release="3.0.0" />
     </dependencies>
 </ivy-module>
