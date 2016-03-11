@@ -29,7 +29,7 @@
 		<dependency org="org.rapidprom" name="LogDialog" rev="6.5.31"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="Log" rev="6.5.230"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="ILPMiner" rev="6.5.24"  rapidprom:release="3.0.0" />
-		<dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.21"  rapidprom:release="3.0.0" />
+		<dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="InteractiveVisualization" rev="6.5.17"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom.thirdparty.lib" name="pnapi-java" rev="na-1" conf="*" />
