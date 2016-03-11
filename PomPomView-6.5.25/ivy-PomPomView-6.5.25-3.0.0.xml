@@ -18,7 +18,7 @@
         <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
     </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="EPC" rev="6.5.18"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="EPC" rev="6.5.34"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="EPCConversion" rev="6.5.16"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.230"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Murata" rev="6.5.39"  rapidprom:release="3.0.0" />
