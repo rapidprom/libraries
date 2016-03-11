@@ -19,6 +19,6 @@
     </configurations>
     <dependencies>
         <dependency org="org.rapidprom" name="Log" rev="6.5.230"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="InteractiveVisualization" rev="6.5.17"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="InteractiveVisualization" rev="6.5.33"  rapidprom:release="3.0.0" />
     </dependencies>
 </ivy-module>
