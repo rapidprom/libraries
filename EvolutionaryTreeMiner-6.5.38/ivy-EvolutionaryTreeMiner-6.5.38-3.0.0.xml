@@ -22,7 +22,7 @@
         <dependency org="org.rapidprom.thirdparty.lib" name="approxlib" rev="v1.0" conf="*"/>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.122"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.153"  rapidprom:release="3.0.0" />
         <dependency org="sshtools" name="j2ssh-core" rev="0.2.9" conf="*" />
         <dependency org="sshtools" name="j2ssh-common" rev="0.2.9" conf="*" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.230"  rapidprom:release="3.0.0" />

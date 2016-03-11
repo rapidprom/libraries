@@ -21,7 +21,7 @@
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="EvolutionaryTreeMiner" rev="6.5.53"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="GraphViz" rev="6.5.142"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.122"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.153"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom.thirdparty.lib" name="jblas" rev="1.2.4" conf="*" />
         <dependency org="org.rapidprom" name="Widgets" rev="6.5.128"  rapidprom:release="3.0.0" />
 		<dependency org="org.apache.commons" name="commons-math3" rev="3.5" conf="*" />
