@@ -21,7 +21,7 @@
         <dependency org="org.rapidprom" name="AcceptingPetriNet" rev="6.5.62" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79" rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="GraphViz" rev="6.5.126" rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="GraphViz" rev="6.5.142" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.122" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.230" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Murata" rev="6.5.48" rapidprom:release="3.0.0" />

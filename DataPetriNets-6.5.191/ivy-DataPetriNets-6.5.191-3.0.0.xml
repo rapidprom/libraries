@@ -22,7 +22,7 @@
         <dependency org="org.rapidprom" name="Daikon" rev="6.5.3"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Log" rev="6.5.230"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.71"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="GraphViz" rev="6.5.126"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="GraphViz" rev="6.5.142"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="Widgets" rev="6.5.128"  rapidprom:release="3.0.0" />
         <dependency org="args4j" name="args4j" rev="2.0.23" conf="*" />
