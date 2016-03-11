@@ -26,7 +26,7 @@
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.71" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="PNetAlignmentAnalysis" rev="6.5.35" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.52" rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.50" rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.61" rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="ProjectedRecallAndPrecision" rev="6.5.23" rapidprom:release="3.0.0" />
     </dependencies>
 </ivy-module>
