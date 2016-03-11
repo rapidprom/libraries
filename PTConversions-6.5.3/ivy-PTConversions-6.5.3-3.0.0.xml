@@ -21,7 +21,7 @@
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.61"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.71"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"  rapidprom:release="3.0.0" />
-        <dependency org="org.rapidprom" name="BPMN" rev="6.5.35"  rapidprom:release="3.0.0" />
+        <dependency org="org.rapidprom" name="BPMN" rev="6.5.56"  rapidprom:release="3.0.0" />
         <dependency org="org.rapidprom" name="YAWL" rev="6.5.30"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="Properties" rev="6.5.68"  rapidprom:release="3.0.0" />
 		<dependency org="org.rapidprom" name="EPC" rev="6.5.34"  rapidprom:release="3.0.0" />
