@@ -1,0 +1,35 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="DataAwareReplayer" 
+        revision="6.5.453" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/DataAwareReplayer-6.5.453"
+        rapidprom:desc="Multi-perspective Process Conformance Checking based on Data Alignment"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="LGPL" 
+        rapidprom:author="Massimiliano de Leoni, Felix Mannhardt" 
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    rapidprom:release="3.0.3"
+    />
+    <configurations>
+        <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
+    </configurations>
+    <dependencies>
+        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.5.66"  rapidprom:release="3.0.3" />
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"  rapidprom:release="3.0.3" />
+        <dependency org="org.rapidprom" name="DataPetriNets" rev="6.5.291"  rapidprom:release="3.0.3" />
+        <dependency org="org.rapidprom" name="Log" rev="6.5.230"  rapidprom:release="3.0.3" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.71"  rapidprom:release="3.0.3" />
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"  rapidprom:release="3.0.3" />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.128"  rapidprom:release="3.0.3" />
+        <dependency org="org.rapidprom" name="XESAlignmentExtension" rev="6.5.29"  rapidprom:release="3.0.3" />
+        <dependency org="org.rapidprom.thirdparty.lib" name="gurobi" rev="6.04" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="joda-time" rev="2.9.1" conf="*" />
+        <dependency org="it.unimi.dsi" name="fastutil" rev="7.0.7" conf="*" />
+        <dependency org="org.scijava" name="jep" rev="2.4.2" conf="*" />
+        <dependency org="org.sourceforge.jlibeps" name="jlibeps" rev="0.1" conf="*" />
+    </dependencies>
+</ivy-module>
