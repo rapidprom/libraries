@@ -19,7 +19,7 @@
     </configurations>
     <dependencies>
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.71"  rapidprom:release="3.0.5" />
-        <dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.52"  rapidprom:release="3.0.5" />
+        <dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.75"  rapidprom:release="3.0.5" />
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.61"  rapidprom:release="3.0.5" />
         <dependency org="org.rapidprom" name="Properties" rev="6.5.68"  rapidprom:release="3.0.5" />
      </dependencies>
