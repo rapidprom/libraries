@@ -1,0 +1,25 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="AcceptingPetriNet" 
+        revision="6.5.62" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/libraries/tree/master/AcceptingPetriNet-6.5.62"
+        rapidprom:desc="Accepting Petri Net"
+        rapidprom:org="Eindhoven University of Technology"
+        rapidprom:license="LGPL" 
+        rapidprom:author="H.M.W. Verbeek, S.J. van Zelst" 
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+        rapidprom:release="3.0.5"
+    />
+    <configurations>
+        <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
+    </configurations>
+    <dependencies>
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79" rapidprom:release="3.0.5" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.71" rapidprom:release="3.0.5" />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.5.128" rapidprom:release="3.0.5" />
+    </dependencies>
+</ivy-module>
