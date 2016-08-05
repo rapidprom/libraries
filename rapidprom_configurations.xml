@@ -1,9 +1,10 @@
 <configurations defaultconf="default" >
     <conf name="default" />
-    <conf name="lin32" extends="default" />
-    <conf name="lin64" extends="default" />
-    <conf name="mac32" extends="default" />
-    <conf name="mac64" extends="default" />
-    <conf name="win32" extends="default" />
-    <conf name="win64" extends="default" />
+    <conf name="runtime" extends="default" />
+    <conf name="lin32" extends="runtime" />
+    <conf name="lin64" extends="runtime" />
+    <conf name="mac32" extends="runtime" />
+    <conf name="mac64" extends="runtime" />
+    <conf name="win32" extends="runtime" />
+    <conf name="win64" extends="runtime" />
 </configurations>
