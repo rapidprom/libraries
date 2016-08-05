@@ -18,9 +18,9 @@
         <include file="https://raw.githubusercontent.com/rapidprom/libraries/master/rapidprom_configurations.xml" />
     </configurations>
     <dependencies>
-        <dependency org="org.rapidprom" name="AcceptingPetriNet" rev="6.5.62" rapidprom:release="3.0.8" conf="default" />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.230" rapidprom:release="3.0.8" conf="default" />
-        <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.50" rapidprom:release="3.0.8" conf="default" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.71" rapidprom:release="3.0.8" conf="default" />
+        <dependency org="org.rapidprom" name="AcceptingPetriNet" rev="6.5.62" rapidprom:release="3.0.8"/>
+        <dependency org="org.rapidprom" name="Log" rev="6.5.230" rapidprom:release="3.0.8" />
+        <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.50" rapidprom:release="3.0.8" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.71" rapidprom:release="3.0.8" />
     </dependencies>
 </ivy-module>

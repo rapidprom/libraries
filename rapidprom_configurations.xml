@@ -1,4 +1,4 @@
-<configurations defaultconfmapping="*->@">
+<configurations defaultconfmapping="*->default">
     <conf name="lin32" />
     <conf name="lin64" />
     <conf name="mac32" />
