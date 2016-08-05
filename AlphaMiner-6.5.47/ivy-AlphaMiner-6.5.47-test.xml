@@ -1,4 +1,4 @@
-<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org" conf="default">
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
     <info 
         organisation="org.rapidprom" 
         module="AlphaMiner" 
