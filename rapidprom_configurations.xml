@@ -1,4 +1,4 @@
-<configurations>
+<configurations defaultconf="default">
     <conf name="default" />
     <conf name="lin32" extends="default" />
     <conf name="lin64" extends="default" />
