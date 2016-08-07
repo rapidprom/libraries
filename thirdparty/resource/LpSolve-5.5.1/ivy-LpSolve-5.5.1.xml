@@ -1,12 +1,7 @@
 <ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
     <info organisation="org.rapidprom.thirdparty.resource" module="LpSolve" revision="5.5.1" />
     <publications>
-        <artifact name="LpSolve-5.5.1_lin32" type="zip" conf="*" url="https://github.com/rapidprom/libraries/raw/master/thirdparty/resource/LpSolve-5.5.1/" />
-        <artifact name="LpSolve-5.5.1_lin64" type="zip" conf="*" url="https://github.com/rapidprom/libraries/raw/master/thirdparty/resource/LpSolve-5.5.1/" />
-        <artifact name="LpSolve-5.5.1_mac32" type="zip" conf="*" url="https://github.com/rapidprom/libraries/raw/master/thirdparty/resource/LpSolve-5.5.1/" />
-        <artifact name="LpSolve-5.5.1_mac64" type="zip" conf="*" url="https://github.com/rapidprom/libraries/raw/master/thirdparty/resource/LpSolve-5.5.1/" />
-        <artifact name="LpSolve-5.5.1_win32" type="zip" conf="*" url="https://github.com/rapidprom/libraries/raw/master/thirdparty/resource/LpSolve-5.5.1/" />
-        <artifact name="LpSolve-5.5.1_win64" type="zip" conf="*" url="https://github.com/rapidprom/libraries/raw/master/thirdparty/resource/LpSolve-5.5.1/" />
-        <artifact name="LpSolve-5.5.1" type="jar" conf="*" />
+        <artifact name="LpSolve-5.5.1" type="jar" />
+        <artifact name="LpSolve-5.5.1" type="zip" />
     </publications>
 </ivy-module>
