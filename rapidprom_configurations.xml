@@ -1,4 +1,4 @@
-<configurations defaultconf="default" >
+<configurations defaultconf="default" defaultconfmapping="*->*" >
     <conf name="default" />
     <conf name="runtime" extends="default" />
     <conf name="compile" extends="runtime" />
