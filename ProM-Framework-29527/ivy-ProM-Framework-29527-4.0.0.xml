@@ -2,44 +2,44 @@
     <info organisation="org.rapidprom" module="ProM-Framework" revision="29527" />
     <publications>
         <!-- ProM Framework -->
-        <artifact name="ProM-Contexts" type="jar" />
-        <artifact name="ProM-Framework-29527" type="jar" />
-        <artifact name="ProM-Models" type="jar" />
-        <artifact name="ProM-Plugins" type="jar" />
+        <artifact name="ProM-Contexts" type="jar" conf="*" />
+        <artifact name="ProM-Framework-29527" type="jar" conf="*" />
+        <artifact name="ProM-Models" type="jar" conf="*" />
+        <artifact name="ProM-Plugins" type="jar" conf="*" />
     
         <!-- ProM stdlib -->
-        <artifact name="axis" type="jar" />
-        <artifact name="bsh-2.0b4" type="jar" />
-        <artifact name="collections-generic-4.01" type="jar" />
-        <artifact name="colt" type="jar" />
-        <artifact name="commons-compress-1.0" type="jar" />
-        <artifact name="commons-math-3.1" type="jar" />
-        <artifact name="commons-math3-3.5" type="jar" />
-        <artifact name="FilterableSortableTablePanel" type="jar" />
-        <artifact name="flanagan" type="jar" />
-        <artifact name="guava-16.0.1" type="jar" />
-        <artifact name="jargs" type="jar" />
-        <artifact name="jas-plotter-2.2" type="jar" />
-        <artifact name="jcommon-1.0.16" type="jar" />
-        <artifact name="jdom-legacy-1.1.3" type="jar" />
-        <artifact name="jfreechart-1.0.14" type="jar" />
-        <artifact name="jgraph" type="jar" />
-        <artifact name="jlfgr-1_0" type="jar" />
-        <artifact name="jung-algorithms-2.0" type="jar" />
-        <artifact name="jung-api-2.0" type="jar" />
-        <artifact name="jung-graph-impl-2.0" type="jar" />
-        <artifact name="jung-io-2.0" type="jar" />
-        <artifact name="jung-visualization-2.0" type="jar" />
-        <artifact name="junit-4.8.1" type="jar" />
-        <artifact name="openide-lookup-1.9-patched-1.0" type="jar" />
-        <artifact name="simmetrics" type="jar" />
-        <artifact name="slickerbox1.0rc1" type="jar" />
-        <artifact name="Spex" type="jar" />
-        <artifact name="TableLayout-20050920" type="jar" />
-        <artifact name="UITopiaResources" type="jar" />
-        <artifact name="UITopia" type="jar" />
-        <artifact name="weka" type="jar" />
-        <artifact name="xpp3-1.1.4c" type="jar" />
-        <artifact name="xstream-1.3.1" type="jar" />
+        <artifact name="axis" type="jar" conf="*" />
+        <artifact name="bsh-2.0b4" type="jar" conf="*" />
+        <artifact name="collections-generic-4.01" type="jar" conf="*" />
+        <artifact name="colt" type="jar" conf="*" />
+        <artifact name="commons-compress-1.0" type="jar" conf="*" />
+        <artifact name="commons-math-3.1" type="jar" conf="*" />
+        <artifact name="commons-math3-3.5" type="jar" conf="*" />
+        <artifact name="FilterableSortableTablePanel" type="jar" conf="*" />
+        <artifact name="flanagan" type="jar" conf="*" />
+        <artifact name="guava-16.0.1" type="jar" conf="*" />
+        <artifact name="jargs" type="jar" conf="*" />
+        <artifact name="jas-plotter-2.2" type="jar" conf="*" />
+        <artifact name="jcommon-1.0.16" type="jar" conf="*" />
+        <artifact name="jdom-legacy-1.1.3" type="jar" conf="*" />
+        <artifact name="jfreechart-1.0.14" type="jar" conf="*" />
+        <artifact name="jgraph" type="jar" conf="*" />
+        <artifact name="jlfgr-1_0" type="jar" conf="*" />
+        <artifact name="jung-algorithms-2.0" type="jar" conf="*" />
+        <artifact name="jung-api-2.0" type="jar" conf="*" />
+        <artifact name="jung-graph-impl-2.0" type="jar" conf="*" />
+        <artifact name="jung-io-2.0" type="jar" conf="*" />
+        <artifact name="jung-visualization-2.0" type="jar" conf="*" />
+        <artifact name="junit-4.8.1" type="jar" conf="*" />
+        <artifact name="openide-lookup-1.9-patched-1.0" type="jar" conf="*" />
+        <artifact name="simmetrics" type="jar" conf="*" />
+        <artifact name="slickerbox1.0rc1" type="jar" conf="*" />
+        <artifact name="Spex" type="jar" conf="*" />
+        <artifact name="TableLayout-20050920" type="jar" conf="*" />
+        <artifact name="UITopiaResources" type="jar" conf="*" />
+        <artifact name="UITopia" type="jar" conf="*" />
+        <artifact name="weka" type="jar" conf="*" />
+        <artifact name="xpp3-1.1.4c" type="jar" conf="*" />
+        <artifact name="xstream-1.3.1" type="jar" conf="*" />
     </publications>
 </ivy-module>
