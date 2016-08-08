@@ -1,13 +1,13 @@
 <ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
     <info organisation="org.rapidprom" module="ProM-Framework" revision="29527" />
     <publications>
-        <!--ProM Framework --->
+        <!-- ProM Framework -->
         <artifact name="ProM-Contexts" type="jar" />
         <artifact name="ProM-Framework-29527" type="jar" />
         <artifact name="ProM-Models" type="jar" />
         <artifact name="ProM-Plugins" type="jar" />
     
-        <!--ProM stdlib --->
+        <!-- ProM stdlib -->
         <artifact name="axis" type="jar" />
         <artifact name="bsh-2.0b4" type="jar" />
         <artifact name="collections-generic-4.01" type="jar" />
