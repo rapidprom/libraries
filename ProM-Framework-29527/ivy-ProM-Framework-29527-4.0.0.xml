@@ -40,7 +40,7 @@
         <artifact name="Spex" type="jar" conf="*" />
         <artifact name="TableLayout-20050920" type="jar" conf="*" />
         <artifact name="UITopiaResources" type="jar" conf="*" />
-        <artifact name="UITopia" type="jar" conf="*" />
+        <artifact name="Uitopia" type="jar" conf="*" />
         <artifact name="weka" type="jar" conf="*" />
         <artifact name="xpp3-1.1.4c" type="jar" conf="*" />
         <artifact name="xstream-1.3.1" type="jar" conf="*" />
