@@ -3,7 +3,7 @@
     <publications>
         <!--ProM Framework --->
         <artifact name="ProM-Contexts" type="jar" />
-        <artifact name="ProM-Framework" type="jar" />
+        <artifact name="ProM-Framework-29527" type="jar" />
         <artifact name="ProM-Models" type="jar" />
         <artifact name="ProM-Plugins" type="jar" />
     
