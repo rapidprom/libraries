@@ -1,7 +1,14 @@
 <ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
     <info organisation="org.rapidprom.thirdparty.resource" module="LpSolve" revision="5.5.1" />
+    <!-- svzelst@20150925: we use the rapidprom:os attribute becuase somehow, using the conf atttribute
+         within the ivysettings file as a resolution parameter seems not to work -->
     <publications>
-        <artifact name="LpSolve-5.5.1" type="jar" />
-        <artifact name="LpSolve-5.5.1" type="zip" />
+        <artifact name="LpSolve-5.5.1_lin32" type="zip" ext="zip" />
+        <artifact name="LpSolve-5.5.1_lin64" type="zip" ext="zip" />
+        <artifact name="LpSolve-5.5.1_mac32" type="zip" ext="zip" />
+        <artifact name="LpSolve-5.5.1_mac64" type="zip" ext="zip" />
+        <artifact name="LpSolve-5.5.1_win32" type="zip" ext="zip" />
+        <artifact name="LpSolve-5.5.1_win64" type="zip" ext="zip" />
+        <artifact name="LpSolve-5.5.1" type="jar" ext="jar"/>
     </publications>
 </ivy-module>
