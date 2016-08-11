@@ -1,0 +1,11 @@
+<configurations defaultconf="default" defaultconfmapping="*->*" >
+    <conf name="default" />
+    <conf name="runtime" extends="default" />
+    <conf name="compile" extends="runtime" />
+    <conf name="lin32" extends="compile" />
+    <conf name="lin64" extends="compile" />
+    <conf name="mac32" extends="compile" />
+    <conf name="mac64" extends="compile" />
+    <conf name="win32" extends="compile" />
+    <conf name="win64" extends="compile" />
+</configurations>
